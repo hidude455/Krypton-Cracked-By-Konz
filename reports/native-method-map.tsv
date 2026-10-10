@@ -1,0 +1,733 @@
+registration_index	class	method_index	name	descriptor	function_rva	captured_native_declaration_matches
+0	dev/krypton/6	0	0	([Ljava/lang/Object;)Ljava/lang/String;	0x37a8b0	True
+0	dev/krypton/6	1	3	([Ljava/lang/Object;)Ljava/lang/String;	0x37af50	True
+0	dev/krypton/6	2	1	([Ljava/lang/Object;)Lcom/google/gson/JsonObject;	0x37b5f0	True
+0	dev/krypton/6	3	6	([Ljava/lang/Object;)V	0x37e760	True
+0	dev/krypton/6	4	2q	([Ljava/lang/Object;)V	0x37f820	True
+0	dev/krypton/6	5	8	([Ljava/lang/Object;)V	0x37fd10	True
+0	dev/krypton/6	6	3	([Ljava/lang/Object;)V	0x380410	True
+0	dev/krypton/6	7	9	([Ljava/lang/Object;)V	0x386b00	True
+0	dev/krypton/6	8	3Y	([Ljava/lang/Object;)V	0x387d00	True
+0	dev/krypton/6	9	4P	([Ljava/lang/Object;)V	0x388750	True
+0	dev/krypton/6	10	2	([Ljava/lang/Object;)V	0x3892a0	True
+0	dev/krypton/6	11	1T	([Ljava/lang/Object;)V	0x38a160	True
+0	dev/krypton/6	12	5	([Ljava/lang/Object;)V	0x38b350	True
+0	dev/krypton/6	13	7U	([Ljava/lang/Object;)V	0x38bf70	True
+0	dev/krypton/6	14	71	([Ljava/lang/Object;)V	0x38cbb0	True
+0	dev/krypton/6	15	1m	([Ljava/lang/Object;)V	0x38d7f0	True
+0	dev/krypton/6	16	1	([Ljava/lang/Object;)V	0x38e7b0	True
+0	dev/krypton/6	17	2M	([Ljava/lang/Object;)V	0x38f1f0	True
+0	dev/krypton/6	18	7	([Ljava/lang/Object;)V	0x38f760	True
+0	dev/krypton/6	19	4	([Ljava/lang/Object;)V	0x390490	True
+0	dev/krypton/6	20	0	([Ljava/lang/Object;)V	0x3911c0	True
+0	dev/krypton/6	21	14	([Ljava/lang/Object;)V	0x391b10	True
+0	dev/krypton/6	22	9	([Ljava/lang/Object;)I	0x392740	True
+0	dev/krypton/6	23	3	([Ljava/lang/Object;)Ljava/util/List;	0x392b70	True
+0	dev/krypton/6	24	1	([Ljava/lang/Object;)Ljava/util/List;	0x395010	True
+0	dev/krypton/6	25	3	(Z)V	0x398a70	True
+0	dev/krypton/6	26	2	()Z	0x398ae0	True
+0	dev/krypton/6	27	7	()Z	0x398b60	True
+0	dev/krypton/6	28	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	0x398bd0	True
+0	dev/krypton/6	29	a	([B)Ljava/lang/String;	0x398be0	True
+0	dev/krypton/6	30	a	(IJ)Ljava/lang/String;	0x3991b0	True
+0	dev/krypton/6	31	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	0x39a170	True
+0	dev/krypton/6	32	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x39a650	True
+0	dev/krypton/6	33	b	(IJ)I	0x39af30	True
+0	dev/krypton/6	34	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x39c820	True
+0	dev/krypton/6	35	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x39cd70	True
+0	dev/krypton/6	36	a	(JJ)I	0x39d650	True
+0	dev/krypton/6	37	a	()V	0x39dff0	True
+0	dev/krypton/6	38	b	(JJ)Ljava/lang/Class;	0x3a1140	True
+0	dev/krypton/6	39	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x3a1600	True
+0	dev/krypton/6	40	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x3a18b0	True
+0	dev/krypton/6	41	c	(JJ)Ljava/lang/reflect/Field;	0x3a1b00	True
+0	dev/krypton/6	42	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x3a2860	True
+0	dev/krypton/6	43	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x3a2cc0	True
+0	dev/krypton/6	44	d	(JJ)Ljava/lang/reflect/Method;	0x3a2f40	True
+0	dev/krypton/6	45	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x3a41c0	True
+0	dev/krypton/6	46	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x3a5040	True
+0	dev/krypton/6	47	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x3a54c0	True
+1	dev/krypton/5I	0	6	()V	0x16f440	True
+2	dev/krypton/5U	0	6	()V	0x196830	True
+3	dev/krypton/6t	0	6	()V	0x1c38f0	True
+3	dev/krypton/6t	1	1	()V	0x1c6bc0	True
+4	dev/krypton/5L	0	1	()V	0x172f70	True
+5	dev/krypton/6i	0	6	()V	0x1bb900	True
+5	dev/krypton/6i	1	1	()V	0x1bc020	True
+6	dev/krypton/0r	0	8	(Ljava/lang/String;)V	0x122d0	True
+6	dev/krypton/0r	1	4	()V	0x16ab0	True
+6	dev/krypton/0r	2	0	(Ljava/lang/Runnable;)Ljava/lang/Thread;	0x179e0	True
+6	dev/krypton/0r	3	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	0x17d10	True
+6	dev/krypton/0r	4	a	([B)Ljava/lang/String;	0x17d20	True
+6	dev/krypton/0r	5	a	(IJ)Ljava/lang/String;	0x182f0	True
+6	dev/krypton/0r	6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	0x192a0	True
+6	dev/krypton/0r	7	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x19780	True
+6	dev/krypton/0r	8	b	(IJ)I	0x1a070	True
+6	dev/krypton/0r	9	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x1b9a0	True
+6	dev/krypton/0r	10	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x1bef0	True
+6	dev/krypton/0r	11	c	(IJ)J	0x1c7e0	True
+6	dev/krypton/0r	12	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	0x1e360	True
+6	dev/krypton/0r	13	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x1e8b0	True
+6	dev/krypton/0r	14	a	(JJ)I	0x1f1a0	True
+6	dev/krypton/0r	15	a	()V	0x1fb40	True
+6	dev/krypton/0r	16	b	(JJ)Ljava/lang/Class;	0x21350	True
+6	dev/krypton/0r	17	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x21810	True
+6	dev/krypton/0r	18	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x21ac0	True
+6	dev/krypton/0r	19	c	(JJ)Ljava/lang/reflect/Field;	0x21cf0	True
+6	dev/krypton/0r	20	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x22a40	True
+6	dev/krypton/0r	21	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x22ea0	True
+6	dev/krypton/0r	22	d	(JJ)Ljava/lang/reflect/Method;	0x23110	True
+6	dev/krypton/0r	23	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x243a0	True
+6	dev/krypton/0r	24	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x25200	True
+6	dev/krypton/0r	25	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x25680	True
+7	dev/krypton/5G	0	6	()V	0x16f060	True
+8	dev/krypton/3G	0	method_56131	()V	0x25fe0	True
+8	dev/krypton/3G	1	method_25420	(Lnet/minecraft/class_332;IIF)V	0x26490	True
+8	dev/krypton/3G	2	method_25394	(Lnet/minecraft/class_332;IIF)V	0x264a0	True
+8	dev/krypton/3G	3	method_25426	()V	0x273d0	True
+8	dev/krypton/3G	4	method_25432	()V	0x27b10	True
+8	dev/krypton/3G	5	method_25419	()V	0x284d0	True
+8	dev/krypton/3G	6	method_25421	()Z	0x28be0	True
+8	dev/krypton/3G	7	4	([Ljava/lang/Object;)Ldev/krypton/6;	0x28bf0	True
+8	dev/krypton/3G	8	8D	([Ljava/lang/Object;)V	0x290e0	True
+8	dev/krypton/3G	9	6M	([Ljava/lang/Object;)V	0x2a7c0	True
+8	dev/krypton/3G	10	4j	([Ljava/lang/Object;)V	0x2b6e0	True
+8	dev/krypton/3G	11	8T	([Ljava/lang/Object;)V	0x2db10	True
+8	dev/krypton/3G	12	6	([Ljava/lang/Object;)V	0x2eb40	True
+8	dev/krypton/3G	13	83	([Ljava/lang/Object;)V	0x2f820	True
+8	dev/krypton/3G	14	8u	([Ljava/lang/Object;)V	0x30500	True
+8	dev/krypton/3G	15	7P	([Ljava/lang/Object;)V	0x311e0	True
+8	dev/krypton/3G	16	88	([Ljava/lang/Object;)V	0x33b90	True
+8	dev/krypton/3G	17	3u	([Ljava/lang/Object;)V	0x341f0	True
+8	dev/krypton/3G	18	6I	([Ljava/lang/Object;)V	0x34910	True
+8	dev/krypton/3G	19	6H	([Ljava/lang/Object;)V	0x34d30	True
+8	dev/krypton/3G	20	6K	([Ljava/lang/Object;)V	0x366e0	True
+8	dev/krypton/3G	21	60	([Ljava/lang/Object;)V	0x37300	True
+8	dev/krypton/3G	22	4	([Ljava/lang/Object;)V	0x37c40	True
+8	dev/krypton/3G	23	0H	([Ljava/lang/Object;)V	0x83b20	True
+8	dev/krypton/3G	24	9V	([Ljava/lang/Object;)V	0x894f0	True
+8	dev/krypton/3G	25	0	([Ljava/lang/Object;)[I	0x97090	True
+8	dev/krypton/3G	26	9B	([Ljava/lang/Object;)V	0x9aa30	True
+8	dev/krypton/3G	27	9X	([Ljava/lang/Object;)V	0xa3ad0	True
+8	dev/krypton/3G	28	1E	([Ljava/lang/Object;)V	0xa9cd0	True
+8	dev/krypton/3G	29	5	([Ljava/lang/Object;)[I	0xb13d0	True
+8	dev/krypton/3G	30	9	([Ljava/lang/Object;)[I	0xb5850	True
+8	dev/krypton/3G	31	5	([Ljava/lang/Object;)I	0xb6620	True
+8	dev/krypton/3G	32	82	([Ljava/lang/Object;)V	0xb70c0	True
+8	dev/krypton/3G	33	1	([Ljava/lang/Object;)Ljava/lang/String;	0xb8c10	True
+8	dev/krypton/3G	34	05	([Ljava/lang/Object;)V	0xba420	True
+8	dev/krypton/3G	35	3l	([Ljava/lang/Object;)V	0xc0a50	True
+8	dev/krypton/3G	36	2	([Ljava/lang/Object;)V	0xc2220	True
+8	dev/krypton/3G	37	3X	([Ljava/lang/Object;)V	0xc3590	True
+8	dev/krypton/3G	38	3m	([Ljava/lang/Object;)V	0xc8690	True
+8	dev/krypton/3G	39	method_25402	(Lnet/minecraft/class_11909;Z)Z	0xcdd70	True
+8	dev/krypton/3G	40	method_25403	(Lnet/minecraft/class_11909;DD)Z	0xda0e0	True
+8	dev/krypton/3G	41	method_25406	(Lnet/minecraft/class_11909;)Z	0xdb820	True
+8	dev/krypton/3G	42	0n	([Ljava/lang/Object;)V	0xdc070	True
+8	dev/krypton/3G	43	0j	([Ljava/lang/Object;)V	0xe5b10	True
+8	dev/krypton/3G	44	2F	([Ljava/lang/Object;)V	0xeaae0	True
+8	dev/krypton/3G	45	5	([Ljava/lang/Object;)V	0xf6370	True
+8	dev/krypton/3G	46	09	([Ljava/lang/Object;)V	0xf7010	True
+8	dev/krypton/3G	47	3	([Ljava/lang/Object;)V	0xf7dc0	True
+8	dev/krypton/3G	48	1	([Ljava/lang/Object;)V	0xf8760	True
+8	dev/krypton/3G	49	31	([Ljava/lang/Object;)V	0xf8fb0	True
+8	dev/krypton/3G	50	86	([Ljava/lang/Object;)V	0xf9c80	True
+8	dev/krypton/3G	51	9	([Ljava/lang/Object;)V	0xfb830	True
+8	dev/krypton/3G	52	3w	([Ljava/lang/Object;)V	0xfd580	True
+8	dev/krypton/3G	53	0	([Ljava/lang/Object;)V	0x100770	True
+8	dev/krypton/3G	54	3k	([Ljava/lang/Object;)V	0x101520	True
+8	dev/krypton/3G	55	65	([Ljava/lang/Object;)V	0x103480	True
+8	dev/krypton/3G	56	8O	([Ljava/lang/Object;)V	0x104440	True
+8	dev/krypton/3G	57	8	([Ljava/lang/Object;)V	0x104f90	True
+8	dev/krypton/3G	58	method_25401	(DDDD)Z	0x1082a0	True
+8	dev/krypton/3G	59	method_25404	(Lnet/minecraft/class_11908;)Z	0x108f40	True
+8	dev/krypton/3G	60	method_25400	(Lnet/minecraft/class_11905;)Z	0x10b790	True
+8	dev/krypton/3G	61	7	([Ljava/lang/Object;)V	0x10d3f0	True
+8	dev/krypton/3G	62	4	([Ljava/lang/Object;)D	0x112170	True
+8	dev/krypton/3G	63	1w	([Ljava/lang/Object;)V	0x1150e0	True
+8	dev/krypton/3G	64	9e	([Ljava/lang/Object;)V	0x116500	True
+8	dev/krypton/3G	65	3	([Ljava/lang/Object;)Z	0x118440	True
+8	dev/krypton/3G	66	1	(CIISLdev/krypton/8r;)Z	0x118a90	True
+8	dev/krypton/3G	67	7	(JLdev/krypton/8r;)Ljava/lang/String;	0x118ec0	True
+8	dev/krypton/3G	68	1	(JLdev/krypton/8r;)Z	0x119110	True
+8	dev/krypton/3G	69	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x1196d0	True
+8	dev/krypton/3G	70	a	([B)Ljava/lang/String;	0x1196e0	True
+8	dev/krypton/3G	71	a	(IJ)Ljava/lang/String;	0x119cb0	True
+8	dev/krypton/3G	72	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	0x11ac60	True
+8	dev/krypton/3G	73	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x11b140	True
+8	dev/krypton/3G	74	b	(IJ)I	0x11ba30	True
+8	dev/krypton/3G	75	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x11d360	True
+8	dev/krypton/3G	76	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x11d8b0	True
+8	dev/krypton/3G	77	c	(IJ)J	0x11e1a0	True
+8	dev/krypton/3G	78	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	0x11fd20	True
+8	dev/krypton/3G	79	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x120270	True
+8	dev/krypton/3G	80	a	(JJ)I	0x120b60	True
+8	dev/krypton/3G	81	a	()V	0x121500	True
+8	dev/krypton/3G	82	b	(JJ)Ljava/lang/Class;	0x12ad70	True
+8	dev/krypton/3G	83	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x12b230	True
+8	dev/krypton/3G	84	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x12b4e0	True
+8	dev/krypton/3G	85	c	(JJ)Ljava/lang/reflect/Field;	0x12b710	True
+8	dev/krypton/3G	86	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x12c460	True
+8	dev/krypton/3G	87	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x12c8c0	True
+8	dev/krypton/3G	88	d	(JJ)Ljava/lang/reflect/Method;	0x12cb30	True
+8	dev/krypton/3G	89	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x12ddc0	True
+8	dev/krypton/3G	90	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x12ec50	True
+8	dev/krypton/3G	91	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x12f0d0	True
+9	dev/krypton/66	0	6	()V	0x196c10	True
+10	dev/krypton/02	0	4	([Ljava/lang/Object;)Ljava/util/List;	0x1000	True
+10	dev/krypton/02	1	8	([Ljava/lang/Object;)Ldev/krypton/6x;	0x1ab0	True
+10	dev/krypton/02	2	0	([Ljava/lang/Object;)Ljava/util/List;	0x27b0	True
+10	dev/krypton/02	3	1	([Ljava/lang/Object;)V	0x2b20	True
+10	dev/krypton/02	4	3	([Ljava/lang/Object;)Ljava/util/List;	0x30a0	True
+10	dev/krypton/02	5	5	([Ljava/lang/Object;)Ldev/krypton/6x;	0x3fc0	True
+10	dev/krypton/02	6	4	([Ljava/lang/Object;)V	0x4e00	True
+10	dev/krypton/02	7	7	(Ldev/krypton/6u;)V	0x5400	True
+10	dev/krypton/02	8	4	(Ldev/krypton/6P;)V	0x6a80	True
+10	dev/krypton/02	9	0	(JLdev/krypton/6P;Ldev/krypton/6x;)V	0x8100	True
+10	dev/krypton/02	10	7	(JLdev/krypton/6u;Ldev/krypton/6x;)V	0x8c10	True
+10	dev/krypton/02	11	1	(JSLdev/krypton/6x;)Z	0x96f0	True
+10	dev/krypton/02	12	1	(Ldev/krypton/4r;JLdev/krypton/6x;)Z	0x9b90	True
+10	dev/krypton/02	13	3	(J)V	0x9fd0	True
+10	dev/krypton/02	14	3	(JLjava/lang/String;Ldev/krypton/6x;)Z	0xab40	True
+10	dev/krypton/02	15	9	(Z)V	0xb080	True
+10	dev/krypton/02	16	2	()Z	0xb0f0	True
+10	dev/krypton/02	17	6	()Z	0xb170	True
+10	dev/krypton/02	18	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0xb210	True
+10	dev/krypton/02	19	a	(JJ)I	0xb220	True
+10	dev/krypton/02	20	a	()V	0xbbf0	True
+10	dev/krypton/02	21	b	(JJ)Ljava/lang/Class;	0xd5b0	True
+10	dev/krypton/02	22	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0xda70	True
+10	dev/krypton/02	23	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0xdd20	True
+10	dev/krypton/02	24	c	(JJ)Ljava/lang/reflect/Field;	0xdf50	True
+10	dev/krypton/02	25	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0xecd0	True
+10	dev/krypton/02	26	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0xf130	True
+10	dev/krypton/02	27	d	(JJ)Ljava/lang/reflect/Method;	0xf3a0	True
+10	dev/krypton/02	28	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x10630	True
+10	dev/krypton/02	29	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x114c0	True
+10	dev/krypton/02	30	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x11970	True
+11	dev/krypton/5K	0	6	()V	0x1726c0	True
+11	dev/krypton/5K	1	1	()V	0x172aa0	True
+12	dev/krypton/59	0	6	()V	0x169820	True
+12	dev/krypton/59	1	1	()V	0x16bdf0	True
+13	dev/krypton/6x	0	3	([Ljava/lang/Object;)V	0x1c6f80	True
+13	dev/krypton/6x	1	8	([Ljava/lang/Object;)V	0x1c7780	True
+13	dev/krypton/6x	2	9	([Ljava/lang/Object;)Ljava/lang/String;	0x1c8890	True
+13	dev/krypton/6x	3	9	()Z	0x1c8f30	True
+13	dev/krypton/6x	4	5	([Ljava/lang/Object;)V	0x1c91a0	True
+13	dev/krypton/6x	5	4	([Ljava/lang/Object;)Ljava/lang/String;	0x1cb230	True
+13	dev/krypton/6x	6	9	([Ljava/lang/Object;)I	0x1cb8d0	True
+13	dev/krypton/6x	7	6	([Ljava/lang/Object;)V	0x1cbc50	True
+13	dev/krypton/6x	8	4	([Ljava/lang/Object;)Ldev/krypton/4r;	0x1cc0d0	True
+13	dev/krypton/6x	9	5	([Ljava/lang/Object;)Ljava/util/List;	0x1cc440	True
+13	dev/krypton/6x	10	6	()V	0x1cc7b0	True
+13	dev/krypton/6x	11	1	()V	0x1cc7c0	True
+13	dev/krypton/6x	12	0	([Ljava/lang/Object;)V	0x1cc7d0	True
+13	dev/krypton/6x	13	1	([Ljava/lang/Object;)V	0x1cd080	True
+13	dev/krypton/6x	14	4	([Ljava/lang/Object;)V	0x1cdeb0	True
+13	dev/krypton/6x	15	9	([Ljava/lang/Object;)V	0x1ce610	True
+13	dev/krypton/6x	16	8	([Ljava/lang/Object;)Z	0x1cfcc0	True
+13	dev/krypton/6x	17	7	([Ljava/lang/Object;)V	0x1d0040	True
+13	dev/krypton/6x	18	2	([Ljava/lang/Object;)V	0x1d04c0	True
+13	dev/krypton/6x	19	a	(Ljava/lang/IllegalArgumentException;)Ljava/lang/IllegalArgumentException;	0x1d0a90	True
+13	dev/krypton/6x	20	a	([B)Ljava/lang/String;	0x1d0aa0	True
+13	dev/krypton/6x	21	b	(IJ)I	0x1d1070	True
+13	dev/krypton/6x	22	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x1d29a0	True
+13	dev/krypton/6x	23	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x1d2ef0	True
+13	dev/krypton/6x	24	a	(JJ)I	0x1d37e0	True
+13	dev/krypton/6x	25	a	()V	0x1d4180	True
+13	dev/krypton/6x	26	b	(JJ)Ljava/lang/Class;	0x1d5d50	True
+13	dev/krypton/6x	27	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1d6210	True
+13	dev/krypton/6x	28	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1d64c0	True
+13	dev/krypton/6x	29	c	(JJ)Ljava/lang/reflect/Field;	0x1d66f0	True
+13	dev/krypton/6x	30	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x1d7440	True
+13	dev/krypton/6x	31	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x1d78a0	True
+13	dev/krypton/6x	32	d	(JJ)Ljava/lang/reflect/Method;	0x1d7b10	True
+13	dev/krypton/6x	33	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x1d8da0	True
+13	dev/krypton/6x	34	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x1d9c00	True
+13	dev/krypton/6x	35	e	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x1da080	True
+14	dev/krypton/6E	0	1	()V	0x19d580	True
+15	dev/krypton/5R	0	6	()V	0x177150	True
+16	dev/krypton/6W	0	6	()V	0x1b2150	True
+16	dev/krypton/6W	1	1	()V	0x1b3e40	True
+17	dev/krypton/60	0	6	()V	0x175480	True
+18	dev/krypton/8Z	0	method_56131	()V	0x1ebf70	True
+18	dev/krypton/8Z	1	method_25420	(Lnet/minecraft/class_332;IIF)V	0x1ec420	True
+18	dev/krypton/8Z	2	method_25394	(Lnet/minecraft/class_332;IIF)V	0x1ec430	True
+18	dev/krypton/8Z	3	method_25426	()V	0x1ed360	True
+18	dev/krypton/8Z	4	method_25419	()V	0x1ed740	True
+18	dev/krypton/8Z	5	method_25421	()Z	0x1ede50	True
+18	dev/krypton/8Z	6	6	([Ljava/lang/Object;)Ldev/krypton/66;	0x1ede60	True
+18	dev/krypton/8Z	7	6	([Ljava/lang/Object;)V	0x1ee680	True
+18	dev/krypton/8Z	8	5	([Ljava/lang/Object;)V	0x1ef5e0	True
+18	dev/krypton/8Z	9	4	([Ljava/lang/Object;)V	0x1eff20	True
+18	dev/krypton/8Z	10	1d	([Ljava/lang/Object;)V	0x229ed0	True
+18	dev/krypton/8Z	11	1	([Ljava/lang/Object;)V	0x22ee40	True
+18	dev/krypton/8Z	12	8M	([Ljava/lang/Object;)V	0x23de90	True
+18	dev/krypton/8Z	13	2	([Ljava/lang/Object;)V	0x23fd60	True
+18	dev/krypton/8Z	14	method_25402	(Lnet/minecraft/class_11909;Z)Z	0x244bf0	True
+18	dev/krypton/8Z	15	method_25403	(Lnet/minecraft/class_11909;DD)Z	0x256d50	True
+18	dev/krypton/8Z	16	method_25406	(Lnet/minecraft/class_11909;)Z	0x258490	True
+18	dev/krypton/8Z	17	method_25401	(DDDD)Z	0x258cf0	True
+18	dev/krypton/8Z	18	method_25404	(Lnet/minecraft/class_11908;)Z	0x259190	True
+18	dev/krypton/8Z	19	method_25400	(Lnet/minecraft/class_11905;)Z	0x25b550	True
+18	dev/krypton/8Z	20	0	([Ljava/lang/Object;)V	0x25c240	True
+18	dev/krypton/8Z	21	3	([Ljava/lang/Object;)V	0x25e330	True
+18	dev/krypton/8Z	22	9	([Ljava/lang/Object;)V	0x25f540	True
+18	dev/krypton/8Z	23	4	([Ljava/lang/Object;)I	0x263890	True
+18	dev/krypton/8Z	24	1	([Ljava/lang/Object;)I	0x263e50	True
+18	dev/krypton/8Z	25	7	([Ljava/lang/Object;)V	0x264520	True
+18	dev/krypton/8Z	26	6	([Ljava/lang/Object;)Ljava/lang/String;	0x265ef0	True
+18	dev/krypton/8Z	27	8	([Ljava/lang/Object;)V	0x267700	True
+18	dev/krypton/8Z	28	71	([Ljava/lang/Object;)V	0x269640	True
+18	dev/krypton/8Z	29	0	([Ljava/lang/Object;)D	0x26e3c0	True
+18	dev/krypton/8Z	30	2	([Ljava/lang/Object;)Z	0x271330	True
+18	dev/krypton/8Z	31	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x271960	True
+18	dev/krypton/8Z	32	a	([B)Ljava/lang/String;	0x271970	True
+18	dev/krypton/8Z	33	a	(IJ)Ljava/lang/String;	0x271f40	True
+18	dev/krypton/8Z	34	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	0x272ef0	True
+18	dev/krypton/8Z	35	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2733d0	True
+18	dev/krypton/8Z	36	b	(IJ)I	0x273cc0	True
+18	dev/krypton/8Z	37	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x2755f0	True
+18	dev/krypton/8Z	38	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x275b40	True
+18	dev/krypton/8Z	39	c	(IJ)J	0x276430	True
+18	dev/krypton/8Z	40	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	0x277fb0	True
+18	dev/krypton/8Z	41	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x278500	True
+18	dev/krypton/8Z	42	a	(JJ)I	0x278df0	True
+18	dev/krypton/8Z	43	a	()V	0x279790	True
+18	dev/krypton/8Z	44	b	(JJ)Ljava/lang/Class;	0x2805d0	True
+18	dev/krypton/8Z	45	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x280a90	True
+18	dev/krypton/8Z	46	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x280d40	True
+18	dev/krypton/8Z	47	c	(JJ)Ljava/lang/reflect/Field;	0x280f70	True
+18	dev/krypton/8Z	48	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x281cc0	True
+18	dev/krypton/8Z	49	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x282120	True
+18	dev/krypton/8Z	50	d	(JJ)Ljava/lang/reflect/Method;	0x282390	True
+18	dev/krypton/8Z	51	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x283620	True
+18	dev/krypton/8Z	52	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x284480	True
+18	dev/krypton/8Z	53	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x284900	True
+19		0	4	([Ljava/lang/Object;)V	0x2fead0	False
+19		1	0	([Ljava/lang/Object;)V	0x2ff050	False
+19		2	3	([Ljava/lang/Object;)V	0x300e80	False
+19		3	8	([Ljava/lang/Object;)V	0x3017e0	False
+19		4	8	([Ldev/krypton/4w;)V	0x302140	False
+19		5	4	()[Ldev/krypton/4w;	0x3021b0	False
+19		6	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x302220	False
+19		7	a	(IJ)I	0x302230	False
+19		8	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x303b60	False
+19		9	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x3040b0	False
+19		10	a	(JJ)I	0x3049a0	False
+19		11	a	()V	0x305340	False
+19		12	b	(JJ)Ljava/lang/Class;	0x305bb0	False
+19		13	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x306070	False
+19		14	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x306320	False
+19		15	c	(JJ)Ljava/lang/reflect/Field;	0x306550	False
+19		16	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x3072a0	False
+19		17	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x307700	False
+19		18	d	(JJ)Ljava/lang/reflect/Method;	0x307970	False
+19		19	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x308c00	False
+19		20	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x309a90	False
+19		21	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x309f10	False
+20		0	1	([Ljava/lang/Object;)[B	0x2f7550	False
+20		1	9	([Ljava/lang/Object;)[B	0x2f8050	False
+20		2	6	([Ljava/lang/String;)V	0x2f8bb0	False
+20		3	4	()[Ljava/lang/String;	0x2f8c20	False
+20		4	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x2f8c90	False
+20		5	a	(JJ)I	0x2f8ca0	False
+20		6	a	()V	0x2f9640	False
+20		7	b	(JJ)Ljava/lang/Class;	0x2f9e20	False
+20		8	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2fa2e0	False
+20		9	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2fa590	False
+20		10	c	(JJ)Ljava/lang/reflect/Field;	0x2fa7c0	False
+20		11	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2fb510	False
+20		12	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2fb970	False
+20		13	d	(JJ)Ljava/lang/reflect/Method;	0x2fbbe0	False
+20		14	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x2fce70	False
+20		15	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x2fdcf0	False
+20		16	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2fe170	False
+21	dev/krypton/5M	0	6	()V	0x1750a0	True
+22	3X	0	7	([Ljava/lang/Object;)V	0x2c2510	True
+22	3X	1	2	([Ljava/lang/Object;)V	0x2c41c0	True
+22	3X	2	2	([Ljava/lang/Object;)[B	0x2c4780	True
+22	3X	3	3	([Ljava/lang/Object;)[B	0x2c6740	True
+22	3X	4	7	([Ljava/lang/Object;)[B	0x2c88b0	True
+22	3X	5	0	([Ljava/lang/Object;)[B	0x2c91a0	True
+22	3X	6	4	(I[B[[BJ[BI)V	0x2ca920	True
+22	3X	7	6	(I[B[[B[BJI)V	0x2cc740	True
+22	3X	8	3	(I)V	0x2cdfb0	True
+22	3X	9	3	()I	0x2ce020	True
+22	3X	10	4	()I	0x2ce0a0	True
+22	3X	11	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x2ce110	True
+22	3X	12	a	(IJ)I	0x2ce120	True
+22	3X	13	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x2cfa50	True
+22	3X	14	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2cffa0	True
+22	3X	15	a	(JJ)I	0x2d0890	True
+22	3X	16	a	()V	0x2d1230	True
+22	3X	17	b	(JJ)Ljava/lang/Class;	0x2d28a0	True
+22	3X	18	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2d2d60	True
+22	3X	19	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2d3010	True
+22	3X	20	c	(JJ)Ljava/lang/reflect/Field;	0x2d3240	True
+22	3X	21	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2d3f90	True
+22	3X	22	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2d43f0	True
+22	3X	23	d	(JJ)Ljava/lang/reflect/Method;	0x2d4660	True
+22	3X	24	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x2d58f0	True
+22	3X	25	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x2d6780	True
+22	3X	26	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2d6c00	True
+23	dev/krypton/5Y	0	6	()V	0x197db0	True
+24	dev/krypton/6k	0	6	()V	0x1bc740	True
+24	dev/krypton/6k	1	1	()V	0x1bd320	True
+25	dev/krypton/5A	0	6	()V	0x16d110	True
+25	dev/krypton/5A	1	1	()V	0x16dbd0	True
+26	dev/krypton/5d	0	6	()V	0x19dde0	True
+26	dev/krypton/5d	1	1	()V	0x1a24d0	True
+27	dev/krypton/6H	0	6	()V	0x1a3b80	True
+28	dev/krypton/5n	0	6	()V	0x1a7b70	True
+29	dev/krypton/7u	0	3	([Ljava/lang/Object;)Ljava/lang/String;	0x1da9e0	True
+29	dev/krypton/7u	1	8	([Ljava/lang/Object;)Ljava/lang/String;	0x1db7f0	True
+29	dev/krypton/7u	2	3	([Ljava/lang/Object;)V	0x1dbf80	True
+29	dev/krypton/7u	3	4	([Ljava/lang/Object;)Ljava/util/concurrent/CompletableFuture;	0x1ddc40	True
+29	dev/krypton/7u	4	9	([Ljava/lang/Object;)[[B	0x1de7c0	True
+29	dev/krypton/7u	5	6	(JLjava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	0x1dfda0	True
+29	dev/krypton/7u	6	5	(Ljava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	0x1e2890	True
+29	dev/krypton/7u	7	a	(Ljava/lang/Throwable;)Ljava/lang/Throwable;	0x1e2940	True
+29	dev/krypton/7u	8	a	(IJ)I	0x1e2950	True
+29	dev/krypton/7u	9	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x1e4280	True
+29	dev/krypton/7u	10	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x1e47d0	True
+29	dev/krypton/7u	11	a	(JJ)I	0x1e50c0	True
+29	dev/krypton/7u	12	a	()V	0x1e5a60	True
+29	dev/krypton/7u	13	b	(JJ)Ljava/lang/Class;	0x1e72e0	True
+29	dev/krypton/7u	14	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1e77a0	True
+29	dev/krypton/7u	15	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1e7a50	True
+29	dev/krypton/7u	16	c	(JJ)Ljava/lang/reflect/Field;	0x1e7c80	True
+29	dev/krypton/7u	17	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x1e89d0	True
+29	dev/krypton/7u	18	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x1e8e30	True
+29	dev/krypton/7u	19	d	(JJ)Ljava/lang/reflect/Method;	0x1e90a0	True
+29	dev/krypton/7u	20	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x1ea330	True
+29	dev/krypton/7u	21	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x1eb190	True
+29	dev/krypton/7u	22	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x1eb610	True
+30	dev/krypton/5T	0	6	()V	0x181590	True
+30	dev/krypton/5T	1	1	()V	0x1877c0	True
+31	dev/krypton/5S	0	6	()V	0x178a50	True
+32	dev/krypton/5j	0	1	()V	0x1a3f60	True
+33	dev/krypton/6K	0	6	()V	0x1a4260	True
+33	dev/krypton/6K	1	1	()V	0x1a6520	True
+34	9l	0	5	([Ljava/lang/Object;)V	0x30a870	True
+34	9l	1	6	([B)[B	0x30af20	True
+34	9l	2	9	([Ljava/lang/Object;)V	0x30af30	True
+34	9l	3	2	([Ljava/lang/Object;)V	0x30b360	True
+34	9l	4	7	([Ljava/lang/Object;)V	0x30b790	True
+34	9l	5	8	([Ljava/lang/Object;)V	0x30d320	True
+34	9l	6	0	([Ljava/lang/Object;)V	0x310ce0	True
+34	9l	7	1	([Ljava/lang/Object;)V	0x313610	True
+34	9l	8	4	([Ljava/lang/Object;)V	0x313c20	True
+34	9l	9	6	([Ljava/lang/Object;)V	0x314d40	True
+34	9l	10	8	(Ljava/lang/Throwable;)V	0x316030	True
+34	9l	11	3	()V	0x316040	True
+34	9l	12	4	(I)V	0x316050	True
+34	9l	13	0	()I	0x3160c0	True
+34	9l	14	4	()I	0x316140	True
+34	9l	15	a	(Ljava/io/IOException;)Ljava/io/IOException;	0x3161b0	True
+34	9l	16	a	(IJ)I	0x3161c0	True
+34	9l	17	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x317af0	True
+34	9l	18	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x318040	True
+34	9l	19	a	(JJ)I	0x318930	True
+34	9l	20	a	()V	0x3192d0	True
+34	9l	21	b	(JJ)Ljava/lang/Class;	0x31b200	True
+34	9l	22	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x31b6c0	True
+34	9l	23	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x31b970	True
+34	9l	24	c	(JJ)Ljava/lang/reflect/Field;	0x31bba0	True
+34	9l	25	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x31c8f0	True
+34	9l	26	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x31cd50	True
+34	9l	27	d	(JJ)Ljava/lang/reflect/Method;	0x31cfc0	True
+34	9l	28	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x31e250	True
+34	9l	29	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x31f0e0	True
+34	9l	30	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x31f560	True
+35	dev/krypton/64	0	6	()V	0x178e30	True
+36	dev/krypton/3I	0	1	([Ljava/lang/Object;)[B	0x12fa30	True
+36	dev/krypton/3I	1	4	([Ljava/lang/Object;)B	0x1308a0	True
+36	dev/krypton/3I	2	5	([Ljava/lang/Object;)Ljava/lang/String;	0x131180	True
+36	dev/krypton/3I	3	2	([Ldev/krypton/4w;)V	0x1316e0	True
+36	dev/krypton/3I	4	2	()[Ldev/krypton/4w;	0x131750	True
+36	dev/krypton/3I	5	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x1317c0	True
+36	dev/krypton/3I	6	a	(IJ)I	0x1317d0	True
+36	dev/krypton/3I	7	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x133100	True
+36	dev/krypton/3I	8	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x133650	True
+36	dev/krypton/3I	9	a	(JJ)I	0x133f40	True
+36	dev/krypton/3I	10	a	()V	0x1348e0	True
+36	dev/krypton/3I	11	b	(JJ)Ljava/lang/Class;	0x135010	True
+36	dev/krypton/3I	12	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1354d0	True
+36	dev/krypton/3I	13	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x135780	True
+36	dev/krypton/3I	14	c	(JJ)Ljava/lang/reflect/Field;	0x1359b0	True
+36	dev/krypton/3I	15	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x136700	True
+36	dev/krypton/3I	16	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x136b60	True
+36	dev/krypton/3I	17	d	(JJ)Ljava/lang/reflect/Method;	0x136dd0	True
+36	dev/krypton/3I	18	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x138060	True
+36	dev/krypton/3I	19	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x138ec0	True
+36	dev/krypton/3I	20	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x139340	True
+37	dev/krypton/5r	0	6	()V	0x1ab190	True
+37	dev/krypton/5r	1	1	()V	0x1ace60	True
+38	dev/krypton/6s	0	6	()V	0x1be800	True
+38	dev/krypton/6s	1	1	()V	0x1c1670	True
+39	dev/krypton/53	0	6	()V	0x13a9c0	True
+40	dev/krypton/5X	0	6	()V	0x1979d0	True
+41	dev/krypton/5C	0	6	()V	0x16e050	True
+41	dev/krypton/5C	1	1	()V	0x16e430	True
+42		0	4	([Ljava/lang/Object;)V	0x2d7560	False
+42		1	7	([Ljava/lang/Object;)V	0x2d8e70	False
+42		2	9	([Ljava/lang/Object;)V	0x2d9450	False
+42		3	0	([Ljava/lang/Object;)V	0x2e0470	False
+42		4	3	([Ljava/lang/Object;)V	0x2e1860	False
+42		5	7	([Ljava/lang/Object;)Z	0x2e2b00	False
+42		6	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	0x2e3130	False
+42		7	a	([B)Ljava/lang/String;	0x2e3140	False
+42		8	a	(IJ)I	0x2e3710	False
+42		9	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x2e5040	False
+42		10	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2e5590	False
+42		11	a	(JJ)I	0x2e5e80	False
+42		12	a	()V	0x2e6820	False
+42		13	b	(JJ)Ljava/lang/Class;	0x2e87b0	False
+42		14	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2e8c70	False
+42		15	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2e8f20	False
+42		16	c	(JJ)Ljava/lang/reflect/Field;	0x2e9150	False
+42		17	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2e9ea0	False
+42		18	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2ea300	False
+42		19	d	(JJ)Ljava/lang/reflect/Method;	0x2ea570	False
+42		20	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x2eb800	False
+42		21	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x2ec660	False
+42		22	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2ecae0	False
+43	dev/krypton/57	0	6	([Ljava/lang/Object;)Ljava/lang/String;	0x13ada0	True
+43	dev/krypton/57	1	0	([Ljava/lang/Object;)Ljava/lang/String;	0x13bce0	True
+43	dev/krypton/57	2	1	([Ljava/lang/Object;)Ljava/lang/String;	0x13c590	True
+43	dev/krypton/57	3	7	([Ljava/lang/Object;)V	0x13cf50	True
+43	dev/krypton/57	4	1	([Ljava/lang/Object;)V	0x13f5a0	True
+43	dev/krypton/57	5	7	([Ljava/lang/Object;)Ljava/util/concurrent/CompletableFuture;	0x142110	True
+43	dev/krypton/57	6	8	([Ljava/lang/Object;)[[B	0x143520	True
+43	dev/krypton/57	7	9	([Ljava/lang/Object;)Ljava/util/concurrent/CompletableFuture;	0x145520	True
+43	dev/krypton/57	8	6	([Ljava/lang/Object;)[[B	0x146580	True
+43	dev/krypton/57	9	9	(IBIBBLjava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	0x148100	True
+43	dev/krypton/57	10	5	(BBIJLjava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	0x14ab20	True
+43	dev/krypton/57	11	2	(Ljava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	0x14d590	True
+43	dev/krypton/57	12	a	(Ljava/lang/Throwable;)Ljava/lang/Throwable;	0x14d640	True
+43	dev/krypton/57	13	a	(IJ)I	0x14d650	True
+43	dev/krypton/57	14	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x14ef80	True
+43	dev/krypton/57	15	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x14f4d0	True
+43	dev/krypton/57	16	b	(IJ)J	0x14fdc0	True
+43	dev/krypton/57	17	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	0x151940	True
+43	dev/krypton/57	18	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x151e90	True
+43	dev/krypton/57	19	a	(JJ)I	0x152780	True
+43	dev/krypton/57	20	a	()V	0x153120	True
+43	dev/krypton/57	21	b	(JJ)Ljava/lang/Class;	0x154a70	True
+43	dev/krypton/57	22	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x154f30	True
+43	dev/krypton/57	23	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1551e0	True
+43	dev/krypton/57	24	c	(JJ)Ljava/lang/reflect/Field;	0x155410	True
+43	dev/krypton/57	25	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x156160	True
+43	dev/krypton/57	26	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x1565c0	True
+43	dev/krypton/57	27	d	(JJ)Ljava/lang/reflect/Method;	0x156830	True
+43	dev/krypton/57	28	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x157ac0	True
+43	dev/krypton/57	29	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x158920	True
+43	dev/krypton/57	30	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x158da0	True
+44		0	1	([Ljava/lang/Object;)V	0x2ed440	False
+44		1	0	([Ljava/lang/Object;)[B	0x2ee8d0	False
+44		2	3	([Ljava/lang/Object;)[B	0x2eef70	False
+44		3	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x2ef3f0	False
+44		4	a	(IJ)I	0x2ef400	False
+44		5	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x2f0d30	False
+44		6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2f1280	False
+44		7	a	(JJ)I	0x2f1b70	False
+44		8	a	()V	0x2f2510	False
+44		9	b	(JJ)Ljava/lang/Class;	0x2f28c0	False
+44		10	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2f2d80	False
+44		11	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2f3030	False
+44		12	c	(JJ)Ljava/lang/reflect/Field;	0x2f3260	False
+44		13	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2f3fb0	False
+44		14	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2f4410	False
+44		15	d	(JJ)Ljava/lang/reflect/Method;	0x2f4680	False
+44		16	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x2f5910	False
+44		17	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x2f6770	False
+44		18	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2f6bf0	False
+45	dev/krypton/51	0	6	()V	0x139ca0	True
+45	dev/krypton/51	1	1	()V	0x13a330	True
+46	dev/krypton/6R	0	6	()V	0x1a7f50	True
+46	dev/krypton/6R	1	1	()V	0x1aa4e0	True
+47	dev/krypton/58	0	6	()V	0x159700	True
+47	dev/krypton/58	1	1	()V	0x167810	True
+48	dev/krypton/2	0	7	([Ljava/lang/Object;)Lnet/minecraft/class_2960;	0x31ff80	True
+48	dev/krypton/2	1	3	(J)V	0x320510	True
+48	dev/krypton/2	2	8	([Ljava/lang/Object;)Ldev/krypton/6;	0x322690	True
+48	dev/krypton/2	3	3	([Ljava/lang/Object;)Ldev/krypton/02;	0x322a00	True
+48	dev/krypton/2	4	8	([Ljava/lang/Object;)Ldev/krypton/4w;	0x322d70	True
+48	dev/krypton/2	5	5	([Ljava/lang/Object;)Ldev/krypton/9M;	0x3230e0	True
+48	dev/krypton/2	6	3	(JLjava/lang/Throwable;)V	0x323450	True
+48	dev/krypton/2	7	2	(Ljava/lang/String;J)V	0x323ca0	True
+48	dev/krypton/2	8	4	(L3X;ILjava/lang/String;SCLjava/lang/String;[B)V	0x326300	True
+48	dev/krypton/2	9	4	(Ljava/lang/String;Ljava/lang/String;J)V	0x33cdf0	True
+48	dev/krypton/2	10	0	(JLjava/lang/String;)V	0x33dcc0	True
+48	dev/krypton/2	11	8	(IBILjava/lang/String;Z)V	0x33e5c0	True
+48	dev/krypton/2	12	0	(IIZCSI)V	0x33f460	True
+48	dev/krypton/2	13	3	(JLjava/util/List;)V	0x33fe90	True
+48	dev/krypton/2	14	1	(IJLjava/util/List;)V	0x340790	True
+48	dev/krypton/2	15	7	(Ljava/lang/String;J)V	0x341140	True
+48	dev/krypton/2	16	8	(J)V	0x341a50	True
+48	dev/krypton/2	17	7	(J)V	0x3429a0	True
+48	dev/krypton/2	18	6	(J)V	0x343240	True
+48	dev/krypton/2	19	1	(J)V	0x343ae0	True
+48	dev/krypton/2	20	9	(J)V	0x344380	True
+48	dev/krypton/2	21	5	(Ljava/lang/String;IJ)V	0x344c20	True
+48	dev/krypton/2	22	7	(ICCI)V	0x345ae0	True
+48	dev/krypton/2	23	3	(Ljava/lang/String;J)V	0x346450	True
+48	dev/krypton/2	24	0	(ICILjava/lang/String;Ljava/lang/String;)V	0x347250	True
+48	dev/krypton/2	25	9	(SLjava/lang/String;CILjava/lang/String;)V	0x364be0	True
+48	dev/krypton/2	26	5	(J)V	0x367790	True
+48	dev/krypton/2	27	5	(JBLjava/lang/Runnable;)Ljava/lang/Thread;	0x367fc0	True
+48	dev/krypton/2	28	9	([Ljava/lang/String;)V	0x368850	True
+48	dev/krypton/2	29	7	()[Ljava/lang/String;	0x3688c0	True
+48	dev/krypton/2	30	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	0x368930	True
+48	dev/krypton/2	31	a	([B)Ljava/lang/String;	0x368940	True
+48	dev/krypton/2	32	a	(IJ)Ljava/lang/String;	0x368f10	True
+48	dev/krypton/2	33	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	0x369ec0	True
+48	dev/krypton/2	34	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x36a3a0	True
+48	dev/krypton/2	35	b	(IJ)I	0x36ac90	True
+48	dev/krypton/2	36	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x36c5c0	True
+48	dev/krypton/2	37	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x36cb10	True
+48	dev/krypton/2	38	c	(IJ)J	0x36d400	True
+48	dev/krypton/2	39	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	0x36ef80	True
+48	dev/krypton/2	40	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x36f4d0	True
+48	dev/krypton/2	41	a	(JJ)I	0x36fdc0	True
+48	dev/krypton/2	42	a	()V	0x370760	True
+48	dev/krypton/2	43	b	(JJ)Ljava/lang/Class;	0x3757c0	True
+48	dev/krypton/2	44	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x375c80	True
+48	dev/krypton/2	45	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x375f30	True
+48	dev/krypton/2	46	c	(JJ)Ljava/lang/reflect/Field;	0x376160	True
+48	dev/krypton/2	47	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x376eb0	True
+48	dev/krypton/2	48	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x377310	True
+48	dev/krypton/2	49	d	(JJ)Ljava/lang/reflect/Method;	0x377580	True
+48	dev/krypton/2	50	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x378810	True
+48	dev/krypton/2	51	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x379690	True
+48	dev/krypton/2	52	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x379b10	True
+49		0	7	([Ljava/lang/Object;)V	0x2baab0	False
+49		1	1	([Ljava/lang/Object;)[B	0x2bba70	False
+49		2	9	([Ljava/lang/Object;)[B	0x2bc100	False
+49		3	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x2bc790	False
+49		4	a	(JJ)I	0x2bc7a0	False
+49		5	a	()V	0x2bd140	False
+49		6	b	(JJ)Ljava/lang/Class;	0x2bd850	False
+49		7	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2bdd10	False
+49		8	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2bdfc0	False
+49		9	c	(JJ)Ljava/lang/reflect/Field;	0x2be1f0	False
+49		10	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2bef40	False
+49		11	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2bf3a0	False
+49		12	d	(JJ)Ljava/lang/reflect/Method;	0x2bf610	False
+49		13	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x2c08a0	False
+49		14	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x2c1730	False
+49		15	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2c1bb0	False
+50	dev/krypton/65	0	6	()V	0x188470	True
+50	dev/krypton/65	1	1	()V	0x18a850	True
+50	dev/krypton/65	2	1	(Ldev/krypton/6p;)V	0x18c9e0	True
+50	dev/krypton/65	3	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x18d440	True
+50	dev/krypton/65	4	a	(IJ)I	0x18d450	True
+50	dev/krypton/65	5	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x18ed80	True
+50	dev/krypton/65	6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x18f2d0	True
+50	dev/krypton/65	7	e	(JJ)I	0x18fbc0	True
+50	dev/krypton/65	8	b	()V	0x190560	True
+50	dev/krypton/65	9	f	(JJ)Ljava/lang/Class;	0x191b70	True
+50	dev/krypton/65	10	c	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x192030	True
+50	dev/krypton/65	11	d	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x1922e0	True
+50	dev/krypton/65	12	g	(JJ)Ljava/lang/reflect/Field;	0x192510	True
+50	dev/krypton/65	13	c	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x193260	True
+50	dev/krypton/65	14	d	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x1936c0	True
+50	dev/krypton/65	15	h	(JJ)Ljava/lang/reflect/Method;	0x193930	True
+50	dev/krypton/65	16	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x194bc0	True
+50	dev/krypton/65	17	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x195a50	True
+50	dev/krypton/65	18	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x195ed0	True
+51	dev/krypton/5_	0	6	()V	0x19bc40	True
+51	dev/krypton/5_	1	1	()V	0x19ce10	True
+52	dev/krypton/4r	0	values	()[Ldev/krypton/4r;	0x179c00	True
+52	dev/krypton/4r	1	valueOf	(Ljava/lang/String;)Ldev/krypton/4r;	0x179ef0	True
+52	dev/krypton/4r	2	toString	()Ljava/lang/String;	0x17a1a0	True
+52	dev/krypton/4r	3	3	()[Ldev/krypton/4r;	0x17a400	True
+52	dev/krypton/4r	4	0	([Ldev/krypton/4w;)V	0x17b0b0	True
+52	dev/krypton/4r	5	6	()[Ldev/krypton/4w;	0x17b120	True
+52	dev/krypton/4r	6	a	([B)Ljava/lang/String;	0x17b190	True
+52	dev/krypton/4r	7	a	(JJ)I	0x17b760	True
+52	dev/krypton/4r	8	a	()V	0x17c100	True
+52	dev/krypton/4r	9	b	(JJ)Ljava/lang/Class;	0x17c8d0	True
+52	dev/krypton/4r	10	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x17cd90	True
+52	dev/krypton/4r	11	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x17d040	True
+52	dev/krypton/4r	12	c	(JJ)Ljava/lang/reflect/Field;	0x17d270	True
+52	dev/krypton/4r	13	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x17dfc0	True
+52	dev/krypton/4r	14	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x17e420	True
+52	dev/krypton/4r	15	d	(JJ)Ljava/lang/reflect/Method;	0x17e690	True
+52	dev/krypton/4r	16	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x17f920	True
+52	dev/krypton/4r	17	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x1807b0	True
+52	dev/krypton/4r	18	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x180c30	True
+53	dev/krypton/6o	0	1	()V	0x1bd7f0	True
+54	dev/krypton/5V	0	6	()V	0x197080	True
+55	dev/krypton/5O	0	6	()V	0x175990	True
+56	dev/krypton/6r	0	6	()V	0x1bdc70	True
+57	dev/krypton/61	0	1	()V	0x175e40	True
+58		0	getHWID	()Ljava/lang/String;	0x31fec0	False
+58		1	sha256	([B)[B	0x31fed0	False
+58		2	unscramble	(Ljava/lang/String;)Ljava/lang/String;	0x31fee0	False
+58		3	writeShortString	(Ljava/lang/String;)[B	0x31fef0	False
+58		4	generatePermutation	([B)[[B	0x31ff00	False
+58		5	mixBytes	([B)V	0x31ff10	False
+58		6	invertMixBytes	([B)V	0x31ff20	False
+58		7	generateTimeBasedKey	()[B	0x31ff30	False
+58		8	cloudDecrypt	([B[B[B[BI)Ljava/lang/String;	0x31ff40	False
+58		9	readBytes	([B[II)[B	0x31ff50	False
+58		10	readShortBytes	([B[I)[B	0x31ff60	False
+58		11	readShortString	([B[I)Ljava/lang/String;	0x31ff70	False
+59	dev/krypton/5x	0	6	()V	0x1b8290	True
+60	dev/krypton/5u	0	6	()V	0x1b1990	True
+60	dev/krypton/5u	1	1	()V	0x1b1d70	True
+61	dev/krypton/5Z	0	6	()V	0x198990	True
+61	dev/krypton/5Z	1	1	()V	0x19ae20	True
+62	dev/krypton/5D	0	1	()V	0x16e810	True
+63	dev/krypton/9M	0	8	([Ljava/lang/Object;)Z	0x285260	True
+63	dev/krypton/9M	1	3	([Ljava/lang/Object;)V	0x286240	True
+63	dev/krypton/9M	2	method_56131	()V	0x286b50	True
+63	dev/krypton/9M	3	method_25420	(Lnet/minecraft/class_332;IIF)V	0x286fe0	True
+63	dev/krypton/9M	4	method_25394	(Lnet/minecraft/class_332;IIF)V	0x287540	True
+63	dev/krypton/9M	5	4	([Ljava/lang/Object;)V	0x28a7b0	True
+63	dev/krypton/9M	6	7	([Ljava/lang/Object;)[I	0x298dc0	True
+63	dev/krypton/9M	7	9	([Ljava/lang/Object;)[I	0x29a470	True
+63	dev/krypton/9M	8	method_25404	(Lnet/minecraft/class_11908;)Z	0x29bb20	True
+63	dev/krypton/9M	9	method_25400	(Lnet/minecraft/class_11905;)Z	0x29cc10	True
+63	dev/krypton/9M	10	method_25402	(Lnet/minecraft/class_11909;Z)Z	0x29d220	True
+63	dev/krypton/9M	11	method_25403	(Lnet/minecraft/class_11909;DD)Z	0x2a1510	True
+63	dev/krypton/9M	12	method_25401	(DDDD)Z	0x2a3320	True
+63	dev/krypton/9M	13	method_25421	()Z	0x2a4d40	True
+63	dev/krypton/9M	14	method_25419	()V	0x2a4d50	True
+63	dev/krypton/9M	15	8	([Ljava/lang/Object;)V	0x2a5cd0	True
+63	dev/krypton/9M	16	method_25406	(Lnet/minecraft/class_11909;)Z	0x2a7550	True
+63	dev/krypton/9M	17	2	([Ljava/lang/Object;)V	0x2a90b0	True
+63	dev/krypton/9M	18	1	(I)V	0x2ac220	True
+63	dev/krypton/9M	19	2	()I	0x2ac290	True
+63	dev/krypton/9M	20	8	()I	0x2ac310	True
+63	dev/krypton/9M	21	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	0x2ac380	True
+63	dev/krypton/9M	22	a	([B)Ljava/lang/String;	0x2ac390	True
+63	dev/krypton/9M	23	a	(IJ)Ljava/lang/String;	0x2ac960	True
+63	dev/krypton/9M	24	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	0x2ad910	True
+63	dev/krypton/9M	25	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2addf0	True
+63	dev/krypton/9M	26	b	(IJ)I	0x2ae6e0	True
+63	dev/krypton/9M	27	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	0x2b0010	True
+63	dev/krypton/9M	28	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2b0560	True
+63	dev/krypton/9M	29	a	(JJ)I	0x2b0e50	True
+63	dev/krypton/9M	30	a	()V	0x2b17f0	True
+63	dev/krypton/9M	31	b	(JJ)Ljava/lang/Class;	0x2b5e20	True
+63	dev/krypton/9M	32	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2b62e0	True
+63	dev/krypton/9M	33	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	0x2b6590	True
+63	dev/krypton/9M	34	c	(JJ)Ljava/lang/reflect/Field;	0x2b67c0	True
+63	dev/krypton/9M	35	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2b7510	True
+63	dev/krypton/9M	36	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	0x2b7970	True
+63	dev/krypton/9M	37	d	(JJ)Ljava/lang/reflect/Method;	0x2b7be0	True
+63	dev/krypton/9M	38	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	0x2b8e70	True
+63	dev/krypton/9M	39	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	0x2b9cd0	True
+63	dev/krypton/9M	40	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	0x2ba150	True
+64	dev/krypton/5s	0	6	()V	0x1ad490	True
+64	dev/krypton/5s	1	1	()V	0x1b00a0	True
+65	dev/krypton/5P	0	6	()V	0x176c80	True
+66	dev/krypton/5z	0	6	()V	0x1b8670	True
+67	dev/krypton/6d	0	6	()V	0x1b8a50	True
+67	dev/krypton/6d	1	1	()V	0x1bae20	True
+68	dev/krypton/5w	0	1	()V	0x1b78a0	True
+69	dev/krypton/5v	0	6	()V	0x1b4fe0	True
+69	dev/krypton/5v	1	1	()V	0x1b6b50	True

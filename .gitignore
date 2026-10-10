@@ -1,0 +1,16 @@
+# Keep private capture artifacts out of future commits.
+*.jar
+*.class
+*.dll
+*.exe
+*.bin
+*.dmp
+*.log
+licenseKey
+*license-key*
+*credentials*
+.env
+.env.*
+live-*/
+capture-*/
+ghidra-project*/

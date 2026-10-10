@@ -1,0 +1,10 @@
+{
+  "scope": "Allowlisted recovered Java, native pseudocode, code-only bytecode/disassembly, symbol bindings and generated documentation.",
+  "known_license_key_matches": 0,
+  "profile_path_matches": 0,
+  "private_username_or_machine_matches": 0,
+  "credential_pattern_matches": 0,
+  "original_binaries_or_license_resources_included": false,
+  "commit_identity": "Source Export <source-export@users.noreply.github.com>",
+  "limits": "Pattern and exact-key checks cover published files; they do not prove the absence of every unknown encrypted value. Obfuscator ciphertext and static program constants are preserved."
+}

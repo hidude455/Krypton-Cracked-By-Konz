@@ -1,0 +1,734 @@
+rva	label	class_name	method	descriptor	status	source_pass	inferred_body_bytes	captured
+0x1000	JNI_dev_krypton_02_4_0	dev/krypton/02	4	([Ljava/lang/Object;)Ljava/util/List;	success	typed	1	true
+0x1ab0	JNI_dev_krypton_02_8_1	dev/krypton/02	8	([Ljava/lang/Object;)Ldev/krypton/6x;	success	typed	1	true
+0x27b0	JNI_dev_krypton_02_0_2	dev/krypton/02	0	([Ljava/lang/Object;)Ljava/util/List;	success	typed	1	true
+0x2b20	JNI_dev_krypton_02_1_3	dev/krypton/02	1	([Ljava/lang/Object;)V	success	typed	1	true
+0x30a0	JNI_dev_krypton_02_3_4	dev/krypton/02	3	([Ljava/lang/Object;)Ljava/util/List;	success	typed	1	true
+0x3fc0	JNI_dev_krypton_02_5_5	dev/krypton/02	5	([Ljava/lang/Object;)Ldev/krypton/6x;	success	typed	1	true
+0x4e00	JNI_dev_krypton_02_4_6	dev/krypton/02	4	([Ljava/lang/Object;)V	success	typed	1	true
+0x5400	JNI_dev_krypton_02_7_7	dev/krypton/02	7	(Ldev/krypton/6u;)V	success	typed	1	true
+0x6a80	JNI_dev_krypton_02_4_8	dev/krypton/02	4	(Ldev/krypton/6P;)V	success	typed	1	true
+0x8100	JNI_dev_krypton_02_0_9	dev/krypton/02	0	(JLdev/krypton/6P;Ldev/krypton/6x;)V	success	typed	1	true
+0x8c10	JNI_dev_krypton_02_7_10	dev/krypton/02	7	(JLdev/krypton/6u;Ldev/krypton/6x;)V	success	typed	1	true
+0x96f0	JNI_dev_krypton_02_1_11	dev/krypton/02	1	(JSLdev/krypton/6x;)Z	success	typed	1	true
+0x9b90	JNI_dev_krypton_02_1_12	dev/krypton/02	1	(Ldev/krypton/4r;JLdev/krypton/6x;)Z	success	typed	1	true
+0x9fd0	JNI_dev_krypton_02_3_13	dev/krypton/02	3	(J)V	success	typed	1	true
+0xab40	JNI_dev_krypton_02_3_14	dev/krypton/02	3	(JLjava/lang/String;Ldev/krypton/6x;)Z	success	typed	1	true
+0xb080	JNI_dev_krypton_02_9_15	dev/krypton/02	9	(Z)V	success	typed	1	true
+0xb0f0	JNI_dev_krypton_02_2_16	dev/krypton/02	2	()Z	success	typed	1	true
+0xb170	JNI_dev_krypton_02_6_17	dev/krypton/02	6	()Z	success	typed	1	true
+0xb210	JNI_dev_krypton_02_a_18	dev/krypton/02	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0xb220	JNI_dev_krypton_02_a_19	dev/krypton/02	a	(JJ)I	success	typed	1	true
+0xbbf0	JNI_dev_krypton_02_a_20	dev/krypton/02	a	()V	success	typed	1	true
+0xd5b0	JNI_dev_krypton_02_b_21	dev/krypton/02	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0xda70	JNI_dev_krypton_02_a_22	dev/krypton/02	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0xdd20	JNI_dev_krypton_02_b_23	dev/krypton/02	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0xdf50	JNI_dev_krypton_02_c_24	dev/krypton/02	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0xecd0	JNI_dev_krypton_02_a_25	dev/krypton/02	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0xf130	JNI_dev_krypton_02_b_26	dev/krypton/02	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0xf3a0	JNI_dev_krypton_02_d_27	dev/krypton/02	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x10630	JNI_dev_krypton_02_a_28	dev/krypton/02	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x114c0	JNI_dev_krypton_02_a_29	dev/krypton/02	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x11970	JNI_dev_krypton_02_a_30	dev/krypton/02	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x122d0	JNI_dev_krypton_0r_8_0	dev/krypton/0r	8	(Ljava/lang/String;)V	success	repair	1	true
+0x16ab0	JNI_dev_krypton_0r_4_1	dev/krypton/0r	4	()V	success	initial	1	true
+0x179e0	JNI_dev_krypton_0r_0_2	dev/krypton/0r	0	(Ljava/lang/Runnable;)Ljava/lang/Thread;	success	initial	1	true
+0x17d10	JNI_dev_krypton_0r_a_3	dev/krypton/0r	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	success	typed	4	true
+0x17d20	JNI_dev_krypton_0r_a_4	dev/krypton/0r	a	([B)Ljava/lang/String;	success	initial	1	true
+0x182f0	JNI_dev_krypton_0r_a_5	dev/krypton/0r	a	(IJ)Ljava/lang/String;	success	initial	1	true
+0x192a0	JNI_dev_krypton_0r_a_6	dev/krypton/0r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	success	initial	1	true
+0x19780	JNI_dev_krypton_0r_a_7	dev/krypton/0r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x1a070	JNI_dev_krypton_0r_b_8	dev/krypton/0r	b	(IJ)I	success	initial	1	true
+0x1b9a0	JNI_dev_krypton_0r_b_9	dev/krypton/0r	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	initial	1	true
+0x1bef0	JNI_dev_krypton_0r_b_10	dev/krypton/0r	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x1c7e0	JNI_dev_krypton_0r_c_11	dev/krypton/0r	c	(IJ)J	success	initial	1	true
+0x1e360	JNI_dev_krypton_0r_c_12	dev/krypton/0r	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	success	initial	1	true
+0x1e8b0	JNI_dev_krypton_0r_c_13	dev/krypton/0r	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x1f1a0	JNI_dev_krypton_0r_a_14	dev/krypton/0r	a	(JJ)I	success	initial	1	true
+0x1fb40	JNI_dev_krypton_0r_a_15	dev/krypton/0r	a	()V	success	initial	1	true
+0x21350	JNI_dev_krypton_0r_b_16	dev/krypton/0r	b	(JJ)Ljava/lang/Class;	success	initial	1	true
+0x21810	JNI_dev_krypton_0r_a_17	dev/krypton/0r	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	initial	1	true
+0x21ac0	JNI_dev_krypton_0r_b_18	dev/krypton/0r	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	initial	1	true
+0x21cf0	JNI_dev_krypton_0r_c_19	dev/krypton/0r	c	(JJ)Ljava/lang/reflect/Field;	success	initial	1	true
+0x22a40	JNI_dev_krypton_0r_a_20	dev/krypton/0r	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	initial	1	true
+0x22ea0	JNI_dev_krypton_0r_b_21	dev/krypton/0r	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	initial	1	true
+0x23110	JNI_dev_krypton_0r_d_22	dev/krypton/0r	d	(JJ)Ljava/lang/reflect/Method;	success	initial	1	true
+0x243a0	JNI_dev_krypton_0r_a_23	dev/krypton/0r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	initial	1	true
+0x25200	JNI_dev_krypton_0r_a_24	dev/krypton/0r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	initial	1	true
+0x25680	JNI_dev_krypton_0r_d_25	dev/krypton/0r	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x25fe0	JNI_dev_krypton_3G_method_56131_0	dev/krypton/3G	method_56131	()V	success	initial	1	true
+0x26490	JNI_dev_krypton_3G_method_25420_1	dev/krypton/3G	method_25420	(Lnet/minecraft/class_332;IIF)V	success	initial	1	true
+0x264a0	JNI_dev_krypton_3G_method_25394_2	dev/krypton/3G	method_25394	(Lnet/minecraft/class_332;IIF)V	success	initial	1	true
+0x273d0	JNI_dev_krypton_3G_method_25426_3	dev/krypton/3G	method_25426	()V	success	initial	1	true
+0x27b10	JNI_dev_krypton_3G_method_25432_4	dev/krypton/3G	method_25432	()V	success	initial	1	true
+0x284d0	JNI_dev_krypton_3G_method_25419_5	dev/krypton/3G	method_25419	()V	success	initial	1	true
+0x28be0	JNI_dev_krypton_3G_method_25421_6	dev/krypton/3G	method_25421	()Z	success	typed	3	true
+0x28bf0	JNI_dev_krypton_3G_4_7	dev/krypton/3G	4	([Ljava/lang/Object;)Ldev/krypton/6;	success	initial	1	true
+0x290e0	JNI_dev_krypton_3G_8D_8	dev/krypton/3G	8D	([Ljava/lang/Object;)V	success	initial	1	true
+0x2a7c0	JNI_dev_krypton_3G_6M_9	dev/krypton/3G	6M	([Ljava/lang/Object;)V	success	initial	1	true
+0x2b6e0	JNI_dev_krypton_3G_4j_10	dev/krypton/3G	4j	([Ljava/lang/Object;)V	success	initial	1	true
+0x2db10	JNI_dev_krypton_3G_8T_11	dev/krypton/3G	8T	([Ljava/lang/Object;)V	success	initial	1	true
+0x2eb40	JNI_dev_krypton_3G_6_12	dev/krypton/3G	6	([Ljava/lang/Object;)V	success	initial	1	true
+0x2f820	JNI_dev_krypton_3G_83_13	dev/krypton/3G	83	([Ljava/lang/Object;)V	success	initial	1	true
+0x30500	JNI_dev_krypton_3G_8u_14	dev/krypton/3G	8u	([Ljava/lang/Object;)V	success	initial	1	true
+0x311e0	JNI_dev_krypton_3G_7P_15	dev/krypton/3G	7P	([Ljava/lang/Object;)V	success	initial	1	true
+0x33b90	JNI_dev_krypton_3G_88_16	dev/krypton/3G	88	([Ljava/lang/Object;)V	success	initial	1	true
+0x341f0	JNI_dev_krypton_3G_3u_17	dev/krypton/3G	3u	([Ljava/lang/Object;)V	success	initial	1	true
+0x34910	JNI_dev_krypton_3G_6I_18	dev/krypton/3G	6I	([Ljava/lang/Object;)V	success	initial	1	true
+0x34d30	JNI_dev_krypton_3G_6H_19	dev/krypton/3G	6H	([Ljava/lang/Object;)V	success	initial	1	true
+0x366e0	JNI_dev_krypton_3G_6K_20	dev/krypton/3G	6K	([Ljava/lang/Object;)V	success	initial	1	true
+0x37300	JNI_dev_krypton_3G_60_21	dev/krypton/3G	60	([Ljava/lang/Object;)V	success	initial	1	true
+0x37c40	JNI_dev_krypton_3G_4_22	dev/krypton/3G	4	([Ljava/lang/Object;)V	failed	repair	1	true
+0x83b20	JNI_dev_krypton_3G_0H_23	dev/krypton/3G	0H	([Ljava/lang/Object;)V	success	repair	1	true
+0x894f0	JNI_dev_krypton_3G_9V_24	dev/krypton/3G	9V	([Ljava/lang/Object;)V	failed	repair	1	true
+0x97090	JNI_dev_krypton_3G_0_25	dev/krypton/3G	0	([Ljava/lang/Object;)[I	success	initial	1	true
+0x9aa30	JNI_dev_krypton_3G_9B_26	dev/krypton/3G	9B	([Ljava/lang/Object;)V	failed	initial	1	true
+0xa3ad0	JNI_dev_krypton_3G_9X_27	dev/krypton/3G	9X	([Ljava/lang/Object;)V	failed	initial	1	true
+0xa9cd0	JNI_dev_krypton_3G_1E_28	dev/krypton/3G	1E	([Ljava/lang/Object;)V	failed	initial	1	true
+0xb13d0	JNI_dev_krypton_3G_5_29	dev/krypton/3G	5	([Ljava/lang/Object;)[I	success	initial	1	true
+0xb5850	JNI_dev_krypton_3G_9_30	dev/krypton/3G	9	([Ljava/lang/Object;)[I	success	initial	1	true
+0xb6620	JNI_dev_krypton_3G_5_31	dev/krypton/3G	5	([Ljava/lang/Object;)I	success	initial	1	true
+0xb70c0	JNI_dev_krypton_3G_82_32	dev/krypton/3G	82	([Ljava/lang/Object;)V	success	initial	1	true
+0xb8c10	JNI_dev_krypton_3G_1_33	dev/krypton/3G	1	([Ljava/lang/Object;)Ljava/lang/String;	success	initial	1	true
+0xba420	JNI_dev_krypton_3G_05_34	dev/krypton/3G	05	([Ljava/lang/Object;)V	failed	initial	1	true
+0xc0a50	JNI_dev_krypton_3G_3l_35	dev/krypton/3G	3l	([Ljava/lang/Object;)V	success	initial	1	true
+0xc2220	JNI_dev_krypton_3G_2_36	dev/krypton/3G	2	([Ljava/lang/Object;)V	success	initial	1	true
+0xc3590	JNI_dev_krypton_3G_3X_37	dev/krypton/3G	3X	([Ljava/lang/Object;)V	failed	initial	1	true
+0xc8690	JNI_dev_krypton_3G_3m_38	dev/krypton/3G	3m	([Ljava/lang/Object;)V	failed	initial	1	true
+0xcdd70	JNI_dev_krypton_3G_method_25402_39	dev/krypton/3G	method_25402	(Lnet/minecraft/class_11909;Z)Z	failed	initial	1	true
+0xda0e0	JNI_dev_krypton_3G_method_25403_40	dev/krypton/3G	method_25403	(Lnet/minecraft/class_11909;DD)Z	success	initial	1	true
+0xdb820	JNI_dev_krypton_3G_method_25406_41	dev/krypton/3G	method_25406	(Lnet/minecraft/class_11909;)Z	success	initial	1	true
+0xdc070	JNI_dev_krypton_3G_0n_42	dev/krypton/3G	0n	([Ljava/lang/Object;)V	failed	initial	1	true
+0xe5b10	JNI_dev_krypton_3G_0j_43	dev/krypton/3G	0j	([Ljava/lang/Object;)V	success	initial	1	true
+0xeaae0	JNI_dev_krypton_3G_2F_44	dev/krypton/3G	2F	([Ljava/lang/Object;)V	failed	initial	1	true
+0xf6370	JNI_dev_krypton_3G_5_45	dev/krypton/3G	5	([Ljava/lang/Object;)V	success	initial	1	true
+0xf7010	JNI_dev_krypton_3G_09_46	dev/krypton/3G	09	([Ljava/lang/Object;)V	success	initial	1	true
+0xf7dc0	JNI_dev_krypton_3G_3_47	dev/krypton/3G	3	([Ljava/lang/Object;)V	success	initial	1	true
+0xf8760	JNI_dev_krypton_3G_1_48	dev/krypton/3G	1	([Ljava/lang/Object;)V	success	initial	1	true
+0xf8fb0	JNI_dev_krypton_3G_31_49	dev/krypton/3G	31	([Ljava/lang/Object;)V	success	initial	1	true
+0xf9c80	JNI_dev_krypton_3G_86_50	dev/krypton/3G	86	([Ljava/lang/Object;)V	success	initial	1	true
+0xfb830	JNI_dev_krypton_3G_9_51	dev/krypton/3G	9	([Ljava/lang/Object;)V	success	initial	1	true
+0xfd580	JNI_dev_krypton_3G_3w_52	dev/krypton/3G	3w	([Ljava/lang/Object;)V	success	initial	1	true
+0x100770	JNI_dev_krypton_3G_0_53	dev/krypton/3G	0	([Ljava/lang/Object;)V	success	initial	1	true
+0x101520	JNI_dev_krypton_3G_3k_54	dev/krypton/3G	3k	([Ljava/lang/Object;)V	success	initial	1	true
+0x103480	JNI_dev_krypton_3G_65_55	dev/krypton/3G	65	([Ljava/lang/Object;)V	success	initial	1	true
+0x104440	JNI_dev_krypton_3G_8O_56	dev/krypton/3G	8O	([Ljava/lang/Object;)V	success	initial	1	true
+0x104f90	JNI_dev_krypton_3G_8_57	dev/krypton/3G	8	([Ljava/lang/Object;)V	success	initial	1	true
+0x1082a0	JNI_dev_krypton_3G_method_25401_58	dev/krypton/3G	method_25401	(DDDD)Z	success	initial	1	true
+0x108f40	JNI_dev_krypton_3G_method_25404_59	dev/krypton/3G	method_25404	(Lnet/minecraft/class_11908;)Z	failed	initial	1	true
+0x10b790	JNI_dev_krypton_3G_method_25400_60	dev/krypton/3G	method_25400	(Lnet/minecraft/class_11905;)Z	success	typed	1	true
+0x10d3f0	JNI_dev_krypton_3G_7_61	dev/krypton/3G	7	([Ljava/lang/Object;)V	failed	typed	1	true
+0x112170	JNI_dev_krypton_3G_4_62	dev/krypton/3G	4	([Ljava/lang/Object;)D	success	typed	1	true
+0x1150e0	JNI_dev_krypton_3G_1w_63	dev/krypton/3G	1w	([Ljava/lang/Object;)V	success	typed	1	true
+0x116500	JNI_dev_krypton_3G_9e_64	dev/krypton/3G	9e	([Ljava/lang/Object;)V	success	typed	1	true
+0x118440	JNI_dev_krypton_3G_3_65	dev/krypton/3G	3	([Ljava/lang/Object;)Z	success	typed	1	true
+0x118a90	JNI_dev_krypton_3G_1_66	dev/krypton/3G	1	(CIISLdev/krypton/8r;)Z	success	typed	1	true
+0x118ec0	JNI_dev_krypton_3G_7_67	dev/krypton/3G	7	(JLdev/krypton/8r;)Ljava/lang/String;	success	typed	1	true
+0x119110	JNI_dev_krypton_3G_1_68	dev/krypton/3G	1	(JLdev/krypton/8r;)Z	success	typed	1	true
+0x1196d0	JNI_dev_krypton_3G_a_69	dev/krypton/3G	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0x1196e0	JNI_dev_krypton_3G_a_70	dev/krypton/3G	a	([B)Ljava/lang/String;	success	typed	1	true
+0x119cb0	JNI_dev_krypton_3G_a_71	dev/krypton/3G	a	(IJ)Ljava/lang/String;	success	typed	1	true
+0x11ac60	JNI_dev_krypton_3G_a_72	dev/krypton/3G	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x11b140	JNI_dev_krypton_3G_a_73	dev/krypton/3G	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x11ba30	JNI_dev_krypton_3G_b_74	dev/krypton/3G	b	(IJ)I	success	typed	1	true
+0x11d360	JNI_dev_krypton_3G_b_75	dev/krypton/3G	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x11d8b0	JNI_dev_krypton_3G_b_76	dev/krypton/3G	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x11e1a0	JNI_dev_krypton_3G_c_77	dev/krypton/3G	c	(IJ)J	success	typed	1	true
+0x11fd20	JNI_dev_krypton_3G_c_78	dev/krypton/3G	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	success	typed	1	true
+0x120270	JNI_dev_krypton_3G_c_79	dev/krypton/3G	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x120b60	JNI_dev_krypton_3G_a_80	dev/krypton/3G	a	(JJ)I	success	typed	1	true
+0x121500	JNI_dev_krypton_3G_a_81	dev/krypton/3G	a	()V	success	typed	1	true
+0x12ad70	JNI_dev_krypton_3G_b_82	dev/krypton/3G	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x12b230	JNI_dev_krypton_3G_a_83	dev/krypton/3G	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x12b4e0	JNI_dev_krypton_3G_b_84	dev/krypton/3G	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x12b710	JNI_dev_krypton_3G_c_85	dev/krypton/3G	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x12c460	JNI_dev_krypton_3G_a_86	dev/krypton/3G	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x12c8c0	JNI_dev_krypton_3G_b_87	dev/krypton/3G	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x12cb30	JNI_dev_krypton_3G_d_88	dev/krypton/3G	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x12ddc0	JNI_dev_krypton_3G_a_89	dev/krypton/3G	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x12ec50	JNI_dev_krypton_3G_a_90	dev/krypton/3G	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x12f0d0	JNI_dev_krypton_3G_d_91	dev/krypton/3G	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x12fa30	JNI_dev_krypton_3I_1_0	dev/krypton/3I	1	([Ljava/lang/Object;)[B	success	typed	1	true
+0x1308a0	JNI_dev_krypton_3I_4_1	dev/krypton/3I	4	([Ljava/lang/Object;)B	success	typed	1	true
+0x131180	JNI_dev_krypton_3I_5_2	dev/krypton/3I	5	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x1316e0	JNI_dev_krypton_3I_2_3	dev/krypton/3I	2	([Ldev/krypton/4w;)V	success	typed	1	true
+0x131750	JNI_dev_krypton_3I_2_4	dev/krypton/3I	2	()[Ldev/krypton/4w;	success	typed	1	true
+0x1317c0	JNI_dev_krypton_3I_a_5	dev/krypton/3I	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0x1317d0	JNI_dev_krypton_3I_a_6	dev/krypton/3I	a	(IJ)I	success	typed	1	true
+0x133100	JNI_dev_krypton_3I_a_7	dev/krypton/3I	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x133650	JNI_dev_krypton_3I_a_8	dev/krypton/3I	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x133f40	JNI_dev_krypton_3I_a_9	dev/krypton/3I	a	(JJ)I	success	typed	1	true
+0x1348e0	JNI_dev_krypton_3I_a_10	dev/krypton/3I	a	()V	success	typed	1	true
+0x135010	JNI_dev_krypton_3I_b_11	dev/krypton/3I	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x1354d0	JNI_dev_krypton_3I_a_12	dev/krypton/3I	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x135780	JNI_dev_krypton_3I_b_13	dev/krypton/3I	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1359b0	JNI_dev_krypton_3I_c_14	dev/krypton/3I	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x136700	JNI_dev_krypton_3I_a_15	dev/krypton/3I	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x136b60	JNI_dev_krypton_3I_b_16	dev/krypton/3I	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x136dd0	JNI_dev_krypton_3I_d_17	dev/krypton/3I	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x138060	JNI_dev_krypton_3I_a_18	dev/krypton/3I	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x138ec0	JNI_dev_krypton_3I_a_19	dev/krypton/3I	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x139340	JNI_dev_krypton_3I_b_20	dev/krypton/3I	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x139ca0	JNI_dev_krypton_51_6_0	dev/krypton/51	6	()V	success	typed	1	true
+0x13a330	JNI_dev_krypton_51_1_1	dev/krypton/51	1	()V	success	typed	1	true
+0x13a9c0	JNI_dev_krypton_53_6_0	dev/krypton/53	6	()V	success	typed	1	true
+0x13ada0	JNI_dev_krypton_57_6_0	dev/krypton/57	6	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x13bce0	JNI_dev_krypton_57_0_1	dev/krypton/57	0	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x13c590	JNI_dev_krypton_57_1_2	dev/krypton/57	1	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x13cf50	JNI_dev_krypton_57_7_3	dev/krypton/57	7	([Ljava/lang/Object;)V	success	typed	1	true
+0x13f5a0	JNI_dev_krypton_57_1_4	dev/krypton/57	1	([Ljava/lang/Object;)V	success	typed	1	true
+0x142110	JNI_dev_krypton_57_7_5	dev/krypton/57	7	([Ljava/lang/Object;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x143520	JNI_dev_krypton_57_8_6	dev/krypton/57	8	([Ljava/lang/Object;)[[B	success	typed	1	true
+0x145520	JNI_dev_krypton_57_9_7	dev/krypton/57	9	([Ljava/lang/Object;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x146580	JNI_dev_krypton_57_6_8	dev/krypton/57	6	([Ljava/lang/Object;)[[B	success	typed	1	true
+0x148100	JNI_dev_krypton_57_9_9	dev/krypton/57	9	(IBIBBLjava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x14ab20	JNI_dev_krypton_57_5_10	dev/krypton/57	5	(BBIJLjava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x14d590	JNI_dev_krypton_57_2_11	dev/krypton/57	2	(Ljava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x14d640	JNI_dev_krypton_57_a_12	dev/krypton/57	a	(Ljava/lang/Throwable;)Ljava/lang/Throwable;	success	typed	4	true
+0x14d650	JNI_dev_krypton_57_a_13	dev/krypton/57	a	(IJ)I	success	typed	1	true
+0x14ef80	JNI_dev_krypton_57_a_14	dev/krypton/57	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x14f4d0	JNI_dev_krypton_57_a_15	dev/krypton/57	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x14fdc0	JNI_dev_krypton_57_b_16	dev/krypton/57	b	(IJ)J	success	typed	1	true
+0x151940	JNI_dev_krypton_57_b_17	dev/krypton/57	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	success	typed	1	true
+0x151e90	JNI_dev_krypton_57_b_18	dev/krypton/57	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x152780	JNI_dev_krypton_57_a_19	dev/krypton/57	a	(JJ)I	success	typed	1	true
+0x153120	JNI_dev_krypton_57_a_20	dev/krypton/57	a	()V	success	typed	1	true
+0x154a70	JNI_dev_krypton_57_b_21	dev/krypton/57	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x154f30	JNI_dev_krypton_57_a_22	dev/krypton/57	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1551e0	JNI_dev_krypton_57_b_23	dev/krypton/57	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x155410	JNI_dev_krypton_57_c_24	dev/krypton/57	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x156160	JNI_dev_krypton_57_a_25	dev/krypton/57	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1565c0	JNI_dev_krypton_57_b_26	dev/krypton/57	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x156830	JNI_dev_krypton_57_d_27	dev/krypton/57	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x157ac0	JNI_dev_krypton_57_a_28	dev/krypton/57	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x158920	JNI_dev_krypton_57_a_29	dev/krypton/57	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x158da0	JNI_dev_krypton_57_c_30	dev/krypton/57	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x159700	JNI_dev_krypton_58_6_0	dev/krypton/58	6	()V	failed	repair	1	true
+0x167810	JNI_dev_krypton_58_1_1	dev/krypton/58	1	()V	success	typed	1	true
+0x169820	JNI_dev_krypton_59_6_0	dev/krypton/59	6	()V	success	typed	1	true
+0x16bdf0	JNI_dev_krypton_59_1_1	dev/krypton/59	1	()V	success	typed	1	true
+0x16d110	JNI_dev_krypton_5A_6_0	dev/krypton/5A	6	()V	success	typed	1	true
+0x16dbd0	JNI_dev_krypton_5A_1_1	dev/krypton/5A	1	()V	success	typed	1	true
+0x16e050	JNI_dev_krypton_5C_6_0	dev/krypton/5C	6	()V	success	typed	1	true
+0x16e430	JNI_dev_krypton_5C_1_1	dev/krypton/5C	1	()V	success	typed	1	true
+0x16e810	JNI_dev_krypton_5D_1_0	dev/krypton/5D	1	()V	success	typed	1	true
+0x16f060	JNI_dev_krypton_5G_6_0	dev/krypton/5G	6	()V	success	typed	1	true
+0x16f440	JNI_dev_krypton_5I_6_0	dev/krypton/5I	6	()V	success	typed	1	true
+0x1726c0	JNI_dev_krypton_5K_6_0	dev/krypton/5K	6	()V	success	typed	1	true
+0x172aa0	JNI_dev_krypton_5K_1_1	dev/krypton/5K	1	()V	success	typed	1	true
+0x172f70	JNI_dev_krypton_5L_1_0	dev/krypton/5L	1	()V	success	typed	1	true
+0x1750a0	JNI_dev_krypton_5M_6_0	dev/krypton/5M	6	()V	success	typed	1	true
+0x175480	JNI_dev_krypton_60_6_0	dev/krypton/60	6	()V	success	typed	1	true
+0x175990	JNI_dev_krypton_5O_6_0	dev/krypton/5O	6	()V	success	typed	1	true
+0x175e40	JNI_dev_krypton_61_1_0	dev/krypton/61	1	()V	success	typed	1	true
+0x176c80	JNI_dev_krypton_5P_6_0	dev/krypton/5P	6	()V	success	typed	1	true
+0x177150	JNI_dev_krypton_5R_6_0	dev/krypton/5R	6	()V	success	typed	1	true
+0x178a50	JNI_dev_krypton_5S_6_0	dev/krypton/5S	6	()V	success	typed	1	true
+0x178e30	JNI_dev_krypton_64_6_0	dev/krypton/64	6	()V	success	typed	1	true
+0x179c00	JNI_dev_krypton_4r_values_0	dev/krypton/4r	values	()[Ldev/krypton/4r;	success	typed	1	true
+0x179ef0	JNI_dev_krypton_4r_valueOf_1	dev/krypton/4r	valueOf	(Ljava/lang/String;)Ldev/krypton/4r;	success	typed	1	true
+0x17a1a0	JNI_dev_krypton_4r_toString_2	dev/krypton/4r	toString	()Ljava/lang/String;	success	typed	1	true
+0x17a400	JNI_dev_krypton_4r_3_3	dev/krypton/4r	3	()[Ldev/krypton/4r;	success	typed	1	true
+0x17b0b0	JNI_dev_krypton_4r_0_4	dev/krypton/4r	0	([Ldev/krypton/4w;)V	success	typed	1	true
+0x17b120	JNI_dev_krypton_4r_6_5	dev/krypton/4r	6	()[Ldev/krypton/4w;	success	typed	1	true
+0x17b190	JNI_dev_krypton_4r_a_6	dev/krypton/4r	a	([B)Ljava/lang/String;	success	typed	1	true
+0x17b760	JNI_dev_krypton_4r_a_7	dev/krypton/4r	a	(JJ)I	success	typed	1	true
+0x17c100	JNI_dev_krypton_4r_a_8	dev/krypton/4r	a	()V	success	typed	1	true
+0x17c8d0	JNI_dev_krypton_4r_b_9	dev/krypton/4r	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x17cd90	JNI_dev_krypton_4r_a_10	dev/krypton/4r	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x17d040	JNI_dev_krypton_4r_b_11	dev/krypton/4r	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x17d270	JNI_dev_krypton_4r_c_12	dev/krypton/4r	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x17dfc0	JNI_dev_krypton_4r_a_13	dev/krypton/4r	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x17e420	JNI_dev_krypton_4r_b_14	dev/krypton/4r	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x17e690	JNI_dev_krypton_4r_d_15	dev/krypton/4r	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x17f920	JNI_dev_krypton_4r_a_16	dev/krypton/4r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x1807b0	JNI_dev_krypton_4r_a_17	dev/krypton/4r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x180c30	JNI_dev_krypton_4r_a_18	dev/krypton/4r	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x181590	JNI_dev_krypton_5T_6_0	dev/krypton/5T	6	()V	success	repair	1	true
+0x1877c0	JNI_dev_krypton_5T_1_1	dev/krypton/5T	1	()V	success	typed	1	true
+0x188470	JNI_dev_krypton_65_6_0	dev/krypton/65	6	()V	success	typed	1	true
+0x18a850	JNI_dev_krypton_65_1_1	dev/krypton/65	1	()V	success	typed	1	true
+0x18c9e0	JNI_dev_krypton_65_1_2	dev/krypton/65	1	(Ldev/krypton/6p;)V	success	typed	1	true
+0x18d440	JNI_dev_krypton_65_a_3	dev/krypton/65	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0x18d450	JNI_dev_krypton_65_a_4	dev/krypton/65	a	(IJ)I	success	typed	1	true
+0x18ed80	JNI_dev_krypton_65_a_5	dev/krypton/65	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x18f2d0	JNI_dev_krypton_65_a_6	dev/krypton/65	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x18fbc0	JNI_dev_krypton_65_e_7	dev/krypton/65	e	(JJ)I	success	typed	1	true
+0x190560	JNI_dev_krypton_65_b_8	dev/krypton/65	b	()V	success	typed	1	true
+0x191b70	JNI_dev_krypton_65_f_9	dev/krypton/65	f	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x192030	JNI_dev_krypton_65_c_10	dev/krypton/65	c	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1922e0	JNI_dev_krypton_65_d_11	dev/krypton/65	d	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x192510	JNI_dev_krypton_65_g_12	dev/krypton/65	g	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x193260	JNI_dev_krypton_65_c_13	dev/krypton/65	c	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1936c0	JNI_dev_krypton_65_d_14	dev/krypton/65	d	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x193930	JNI_dev_krypton_65_h_15	dev/krypton/65	h	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x194bc0	JNI_dev_krypton_65_b_16	dev/krypton/65	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x195a50	JNI_dev_krypton_65_b_17	dev/krypton/65	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x195ed0	JNI_dev_krypton_65_c_18	dev/krypton/65	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x196830	JNI_dev_krypton_5U_6_0	dev/krypton/5U	6	()V	success	typed	1	true
+0x196c10	JNI_dev_krypton_66_6_0	dev/krypton/66	6	()V	success	typed	1	true
+0x197080	JNI_dev_krypton_5V_6_0	dev/krypton/5V	6	()V	success	typed	1	true
+0x1979d0	JNI_dev_krypton_5X_6_0	dev/krypton/5X	6	()V	success	typed	1	true
+0x197db0	JNI_dev_krypton_5Y_6_0	dev/krypton/5Y	6	()V	success	typed	1	true
+0x198990	JNI_dev_krypton_5Z_6_0	dev/krypton/5Z	6	()V	success	typed	1	true
+0x19ae20	JNI_dev_krypton_5Z_1_1	dev/krypton/5Z	1	()V	success	typed	1	true
+0x19bc40	JNI_dev_krypton_5__6_0	dev/krypton/5_	6	()V	success	typed	1	true
+0x19ce10	JNI_dev_krypton_5__1_1	dev/krypton/5_	1	()V	success	typed	1	true
+0x19d580	JNI_dev_krypton_6E_1_0	dev/krypton/6E	1	()V	success	typed	1	true
+0x19dde0	JNI_dev_krypton_5d_6_0	dev/krypton/5d	6	()V	success	repair	1	true
+0x1a24d0	JNI_dev_krypton_5d_1_1	dev/krypton/5d	1	()V	success	typed	1	true
+0x1a3b80	JNI_dev_krypton_6H_6_0	dev/krypton/6H	6	()V	success	typed	1	true
+0x1a3f60	JNI_dev_krypton_5j_1_0	dev/krypton/5j	1	()V	success	typed	1	true
+0x1a4260	JNI_dev_krypton_6K_6_0	dev/krypton/6K	6	()V	success	typed	1	true
+0x1a6520	JNI_dev_krypton_6K_1_1	dev/krypton/6K	1	()V	success	typed	1	true
+0x1a7b70	JNI_dev_krypton_5n_6_0	dev/krypton/5n	6	()V	success	typed	1	true
+0x1a7f50	JNI_dev_krypton_6R_6_0	dev/krypton/6R	6	()V	success	typed	1	true
+0x1aa4e0	JNI_dev_krypton_6R_1_1	dev/krypton/6R	1	()V	success	typed	1	true
+0x1ab190	JNI_dev_krypton_5r_6_0	dev/krypton/5r	6	()V	success	typed	1	true
+0x1ace60	JNI_dev_krypton_5r_1_1	dev/krypton/5r	1	()V	success	typed	1	true
+0x1ad490	JNI_dev_krypton_5s_6_0	dev/krypton/5s	6	()V	success	typed	1	true
+0x1b00a0	JNI_dev_krypton_5s_1_1	dev/krypton/5s	1	()V	success	typed	1	true
+0x1b1990	JNI_dev_krypton_5u_6_0	dev/krypton/5u	6	()V	success	typed	1	true
+0x1b1d70	JNI_dev_krypton_5u_1_1	dev/krypton/5u	1	()V	success	typed	1	true
+0x1b2150	JNI_dev_krypton_6W_6_0	dev/krypton/6W	6	()V	success	typed	1	true
+0x1b3e40	JNI_dev_krypton_6W_1_1	dev/krypton/6W	1	()V	success	typed	1	true
+0x1b4fe0	JNI_dev_krypton_5v_6_0	dev/krypton/5v	6	()V	success	typed	1	true
+0x1b6b50	JNI_dev_krypton_5v_1_1	dev/krypton/5v	1	()V	success	typed	1	true
+0x1b78a0	JNI_dev_krypton_5w_1_0	dev/krypton/5w	1	()V	success	typed	1	true
+0x1b8290	JNI_dev_krypton_5x_6_0	dev/krypton/5x	6	()V	success	typed	1	true
+0x1b8670	JNI_dev_krypton_5z_6_0	dev/krypton/5z	6	()V	success	typed	1	true
+0x1b8a50	JNI_dev_krypton_6d_6_0	dev/krypton/6d	6	()V	success	typed	1	true
+0x1bae20	JNI_dev_krypton_6d_1_1	dev/krypton/6d	1	()V	success	typed	1	true
+0x1bb900	JNI_dev_krypton_6i_6_0	dev/krypton/6i	6	()V	success	typed	1	true
+0x1bc020	JNI_dev_krypton_6i_1_1	dev/krypton/6i	1	()V	success	typed	1	true
+0x1bc740	JNI_dev_krypton_6k_6_0	dev/krypton/6k	6	()V	success	typed	1	true
+0x1bd320	JNI_dev_krypton_6k_1_1	dev/krypton/6k	1	()V	success	typed	1	true
+0x1bd7f0	JNI_dev_krypton_6o_1_0	dev/krypton/6o	1	()V	success	typed	1	true
+0x1bdc70	JNI_dev_krypton_6r_6_0	dev/krypton/6r	6	()V	success	typed	1	true
+0x1be800	JNI_dev_krypton_6s_6_0	dev/krypton/6s	6	()V	success	typed	1	true
+0x1c1670	JNI_dev_krypton_6s_1_1	dev/krypton/6s	1	()V	success	typed	1	true
+0x1c38f0	JNI_dev_krypton_6t_6_0	dev/krypton/6t	6	()V	success	typed	1	true
+0x1c6bc0	JNI_dev_krypton_6t_1_1	dev/krypton/6t	1	()V	success	typed	1	true
+0x1c6f80	JNI_dev_krypton_6x_3_0	dev/krypton/6x	3	([Ljava/lang/Object;)V	success	typed	1	true
+0x1c7780	JNI_dev_krypton_6x_8_1	dev/krypton/6x	8	([Ljava/lang/Object;)V	success	typed	1	true
+0x1c8890	JNI_dev_krypton_6x_9_2	dev/krypton/6x	9	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x1c8f30	JNI_dev_krypton_6x_9_3	dev/krypton/6x	9	()Z	success	typed	1	true
+0x1c91a0	JNI_dev_krypton_6x_5_4	dev/krypton/6x	5	([Ljava/lang/Object;)V	success	typed	1	true
+0x1cb230	JNI_dev_krypton_6x_4_5	dev/krypton/6x	4	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x1cb8d0	JNI_dev_krypton_6x_9_6	dev/krypton/6x	9	([Ljava/lang/Object;)I	success	typed	1	true
+0x1cbc50	JNI_dev_krypton_6x_6_7	dev/krypton/6x	6	([Ljava/lang/Object;)V	success	typed	1	true
+0x1cc0d0	JNI_dev_krypton_6x_4_8	dev/krypton/6x	4	([Ljava/lang/Object;)Ldev/krypton/4r;	success	typed	1	true
+0x1cc440	JNI_dev_krypton_6x_5_9	dev/krypton/6x	5	([Ljava/lang/Object;)Ljava/util/List;	success	typed	1	true
+0x1cc7b0	JNI_dev_krypton_6x_6_10	dev/krypton/6x	6	()V	success	typed	1	true
+0x1cc7c0	JNI_dev_krypton_6x_1_11	dev/krypton/6x	1	()V	success	typed	1	true
+0x1cc7d0	JNI_dev_krypton_6x_0_12	dev/krypton/6x	0	([Ljava/lang/Object;)V	success	typed	1	true
+0x1cd080	JNI_dev_krypton_6x_1_13	dev/krypton/6x	1	([Ljava/lang/Object;)V	success	typed	1	true
+0x1cdeb0	JNI_dev_krypton_6x_4_14	dev/krypton/6x	4	([Ljava/lang/Object;)V	success	typed	1	true
+0x1ce610	JNI_dev_krypton_6x_9_15	dev/krypton/6x	9	([Ljava/lang/Object;)V	success	typed	1	true
+0x1cfcc0	JNI_dev_krypton_6x_8_16	dev/krypton/6x	8	([Ljava/lang/Object;)Z	success	typed	1	true
+0x1d0040	JNI_dev_krypton_6x_7_17	dev/krypton/6x	7	([Ljava/lang/Object;)V	success	typed	1	true
+0x1d04c0	JNI_dev_krypton_6x_2_18	dev/krypton/6x	2	([Ljava/lang/Object;)V	success	typed	1	true
+0x1d0a90	JNI_dev_krypton_6x_a_19	dev/krypton/6x	a	(Ljava/lang/IllegalArgumentException;)Ljava/lang/IllegalArgumentException;	success	typed	4	true
+0x1d0aa0	JNI_dev_krypton_6x_a_20	dev/krypton/6x	a	([B)Ljava/lang/String;	success	typed	1	true
+0x1d1070	JNI_dev_krypton_6x_b_21	dev/krypton/6x	b	(IJ)I	success	typed	1	true
+0x1d29a0	JNI_dev_krypton_6x_b_22	dev/krypton/6x	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x1d2ef0	JNI_dev_krypton_6x_b_23	dev/krypton/6x	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x1d37e0	JNI_dev_krypton_6x_a_24	dev/krypton/6x	a	(JJ)I	success	typed	1	true
+0x1d4180	JNI_dev_krypton_6x_a_25	dev/krypton/6x	a	()V	success	typed	1	true
+0x1d5d50	JNI_dev_krypton_6x_b_26	dev/krypton/6x	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x1d6210	JNI_dev_krypton_6x_a_27	dev/krypton/6x	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1d64c0	JNI_dev_krypton_6x_b_28	dev/krypton/6x	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1d66f0	JNI_dev_krypton_6x_c_29	dev/krypton/6x	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1d7440	JNI_dev_krypton_6x_a_30	dev/krypton/6x	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1d78a0	JNI_dev_krypton_6x_b_31	dev/krypton/6x	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1d7b10	JNI_dev_krypton_6x_d_32	dev/krypton/6x	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1d8da0	JNI_dev_krypton_6x_a_33	dev/krypton/6x	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x1d9c00	JNI_dev_krypton_6x_a_34	dev/krypton/6x	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x1da080	JNI_dev_krypton_6x_e_35	dev/krypton/6x	e	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x1da9e0	JNI_dev_krypton_7u_3_0	dev/krypton/7u	3	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x1db7f0	JNI_dev_krypton_7u_8_1	dev/krypton/7u	8	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x1dbf80	JNI_dev_krypton_7u_3_2	dev/krypton/7u	3	([Ljava/lang/Object;)V	success	typed	1	true
+0x1ddc40	JNI_dev_krypton_7u_4_3	dev/krypton/7u	4	([Ljava/lang/Object;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x1de7c0	JNI_dev_krypton_7u_9_4	dev/krypton/7u	9	([Ljava/lang/Object;)[[B	success	typed	1	true
+0x1dfda0	JNI_dev_krypton_7u_6_5	dev/krypton/7u	6	(JLjava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x1e2890	JNI_dev_krypton_7u_5_6	dev/krypton/7u	5	(Ljava/lang/Integer;)Ljava/util/concurrent/CompletableFuture;	success	typed	1	true
+0x1e2940	JNI_dev_krypton_7u_a_7	dev/krypton/7u	a	(Ljava/lang/Throwable;)Ljava/lang/Throwable;	success	typed	4	true
+0x1e2950	JNI_dev_krypton_7u_a_8	dev/krypton/7u	a	(IJ)I	success	typed	1	true
+0x1e4280	JNI_dev_krypton_7u_a_9	dev/krypton/7u	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x1e47d0	JNI_dev_krypton_7u_a_10	dev/krypton/7u	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x1e50c0	JNI_dev_krypton_7u_a_11	dev/krypton/7u	a	(JJ)I	success	typed	1	true
+0x1e5a60	JNI_dev_krypton_7u_a_12	dev/krypton/7u	a	()V	success	typed	1	true
+0x1e72e0	JNI_dev_krypton_7u_b_13	dev/krypton/7u	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x1e77a0	JNI_dev_krypton_7u_a_14	dev/krypton/7u	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1e7a50	JNI_dev_krypton_7u_b_15	dev/krypton/7u	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1e7c80	JNI_dev_krypton_7u_c_16	dev/krypton/7u	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x1e89d0	JNI_dev_krypton_7u_a_17	dev/krypton/7u	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1e8e30	JNI_dev_krypton_7u_b_18	dev/krypton/7u	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1e90a0	JNI_dev_krypton_7u_d_19	dev/krypton/7u	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x1ea330	JNI_dev_krypton_7u_a_20	dev/krypton/7u	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x1eb190	JNI_dev_krypton_7u_a_21	dev/krypton/7u	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x1eb610	JNI_dev_krypton_7u_b_22	dev/krypton/7u	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x1ebf70	JNI_index_18_method_56131_0	dev/krypton/8Z	method_56131	()V	success	typed	1	true
+0x1ec420	JNI_index_18_method_25420_1	dev/krypton/8Z	method_25420	(Lnet/minecraft/class_332;IIF)V	success	typed	1	true
+0x1ec430	JNI_index_18_method_25394_2	dev/krypton/8Z	method_25394	(Lnet/minecraft/class_332;IIF)V	success	typed	1	true
+0x1ed360	JNI_index_18_method_25426_3	dev/krypton/8Z	method_25426	()V	success	typed	1	true
+0x1ed740	JNI_index_18_method_25419_4	dev/krypton/8Z	method_25419	()V	success	typed	1	true
+0x1ede50	JNI_index_18_method_25421_5	dev/krypton/8Z	method_25421	()Z	success	typed	3	true
+0x1ede60	JNI_index_18_6_6	dev/krypton/8Z	6	([Ljava/lang/Object;)Ldev/krypton/66;	success	typed	1	true
+0x1ee680	JNI_index_18_6_7	dev/krypton/8Z	6	([Ljava/lang/Object;)V	success	typed	1	true
+0x1ef5e0	JNI_index_18_5_8	dev/krypton/8Z	5	([Ljava/lang/Object;)V	success	typed	1	true
+0x1eff20	JNI_index_18_4_9	dev/krypton/8Z	4	([Ljava/lang/Object;)V	failed	typed	1	true
+0x229ed0	JNI_index_18_1d_10	dev/krypton/8Z	1d	([Ljava/lang/Object;)V	failed	typed	1	true
+0x22ee40	JNI_index_18_1_11	dev/krypton/8Z	1	([Ljava/lang/Object;)V	failed	typed	1	true
+0x23de90	JNI_index_18_8M_12	dev/krypton/8Z	8M	([Ljava/lang/Object;)V	success	typed	1	true
+0x23fd60	JNI_index_18_2_13	dev/krypton/8Z	2	([Ljava/lang/Object;)V	failed	typed	1	true
+0x244bf0	JNI_index_18_method_25402_14	dev/krypton/8Z	method_25402	(Lnet/minecraft/class_11909;Z)Z	failed	typed	1	true
+0x256d50	JNI_index_18_method_25403_15	dev/krypton/8Z	method_25403	(Lnet/minecraft/class_11909;DD)Z	success	typed	1	true
+0x258490	JNI_index_18_method_25406_16	dev/krypton/8Z	method_25406	(Lnet/minecraft/class_11909;)Z	success	typed	1	true
+0x258cf0	JNI_index_18_method_25401_17	dev/krypton/8Z	method_25401	(DDDD)Z	success	typed	1	true
+0x259190	JNI_index_18_method_25404_18	dev/krypton/8Z	method_25404	(Lnet/minecraft/class_11908;)Z	success	typed	1	true
+0x25b550	JNI_index_18_method_25400_19	dev/krypton/8Z	method_25400	(Lnet/minecraft/class_11905;)Z	success	typed	1	true
+0x25c240	JNI_index_18_0_20	dev/krypton/8Z	0	([Ljava/lang/Object;)V	success	typed	1	true
+0x25e330	JNI_index_18_3_21	dev/krypton/8Z	3	([Ljava/lang/Object;)V	success	typed	1	true
+0x25f540	JNI_index_18_9_22	dev/krypton/8Z	9	([Ljava/lang/Object;)V	failed	typed	1	true
+0x263890	JNI_index_18_4_23	dev/krypton/8Z	4	([Ljava/lang/Object;)I	success	typed	1	true
+0x263e50	JNI_index_18_1_24	dev/krypton/8Z	1	([Ljava/lang/Object;)I	success	typed	1	true
+0x264520	JNI_index_18_7_25	dev/krypton/8Z	7	([Ljava/lang/Object;)V	success	typed	1	true
+0x265ef0	JNI_index_18_6_26	dev/krypton/8Z	6	([Ljava/lang/Object;)Ljava/lang/String;	success	typed	1	true
+0x267700	JNI_index_18_8_27	dev/krypton/8Z	8	([Ljava/lang/Object;)V	success	typed	1	true
+0x269640	JNI_index_18_71_28	dev/krypton/8Z	71	([Ljava/lang/Object;)V	failed	typed	1	true
+0x26e3c0	JNI_index_18_0_29	dev/krypton/8Z	0	([Ljava/lang/Object;)D	success	typed	1	true
+0x271330	JNI_index_18_2_30	dev/krypton/8Z	2	([Ljava/lang/Object;)Z	success	typed	1	true
+0x271960	JNI_index_18_a_31	dev/krypton/8Z	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0x271970	JNI_index_18_a_32	dev/krypton/8Z	a	([B)Ljava/lang/String;	success	typed	1	true
+0x271f40	JNI_index_18_a_33	dev/krypton/8Z	a	(IJ)Ljava/lang/String;	success	typed	1	true
+0x272ef0	JNI_index_18_a_34	dev/krypton/8Z	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	true
+0x2733d0	JNI_index_18_a_35	dev/krypton/8Z	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	true
+0x273cc0	JNI_index_18_b_36	dev/krypton/8Z	b	(IJ)I	success	tail	1	true
+0x2755f0	JNI_index_18_b_37	dev/krypton/8Z	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	tail	1	true
+0x275b40	JNI_index_18_b_38	dev/krypton/8Z	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	true
+0x276430	JNI_index_18_c_39	dev/krypton/8Z	c	(IJ)J	success	tail	1	true
+0x277fb0	JNI_index_18_c_40	dev/krypton/8Z	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	success	tail	1	true
+0x278500	JNI_index_18_c_41	dev/krypton/8Z	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	true
+0x278df0	JNI_index_18_a_42	dev/krypton/8Z	a	(JJ)I	success	tail	1	true
+0x279790	JNI_index_18_a_43	dev/krypton/8Z	a	()V	success	tail	1	true
+0x2805d0	JNI_index_18_b_44	dev/krypton/8Z	b	(JJ)Ljava/lang/Class;	success	tail	1	true
+0x280a90	JNI_index_18_a_45	dev/krypton/8Z	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	true
+0x280d40	JNI_index_18_b_46	dev/krypton/8Z	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	true
+0x280f70	JNI_index_18_c_47	dev/krypton/8Z	c	(JJ)Ljava/lang/reflect/Field;	success	tail	1	true
+0x281cc0	JNI_index_18_a_48	dev/krypton/8Z	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	true
+0x282120	JNI_index_18_b_49	dev/krypton/8Z	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	true
+0x282390	JNI_index_18_d_50	dev/krypton/8Z	d	(JJ)Ljava/lang/reflect/Method;	success	tail	1	true
+0x283620	JNI_index_18_a_51	dev/krypton/8Z	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	tail	1	true
+0x284480	JNI_index_18_a_52	dev/krypton/8Z	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	true
+0x284900	JNI_index_18_d_53	dev/krypton/8Z	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	true
+0x285260	JNI_dev_krypton_9M_8_0	dev/krypton/9M	8	([Ljava/lang/Object;)Z	success	typed	1	true
+0x286240	JNI_dev_krypton_9M_3_1	dev/krypton/9M	3	([Ljava/lang/Object;)V	success	typed	1	true
+0x286b50	JNI_dev_krypton_9M_method_56131_2	dev/krypton/9M	method_56131	()V	success	typed	1	true
+0x286fe0	JNI_dev_krypton_9M_method_25420_3	dev/krypton/9M	method_25420	(Lnet/minecraft/class_332;IIF)V	success	typed	1	true
+0x287540	JNI_dev_krypton_9M_method_25394_4	dev/krypton/9M	method_25394	(Lnet/minecraft/class_332;IIF)V	success	typed	1	true
+0x28a7b0	JNI_dev_krypton_9M_4_5	dev/krypton/9M	4	([Ljava/lang/Object;)V	failed	typed	1	true
+0x298dc0	JNI_dev_krypton_9M_7_6	dev/krypton/9M	7	([Ljava/lang/Object;)[I	success	typed	1	true
+0x29a470	JNI_dev_krypton_9M_9_7	dev/krypton/9M	9	([Ljava/lang/Object;)[I	success	typed	1	true
+0x29bb20	JNI_dev_krypton_9M_method_25404_8	dev/krypton/9M	method_25404	(Lnet/minecraft/class_11908;)Z	success	typed	1	true
+0x29cc10	JNI_dev_krypton_9M_method_25400_9	dev/krypton/9M	method_25400	(Lnet/minecraft/class_11905;)Z	success	typed	1	true
+0x29d220	JNI_dev_krypton_9M_method_25402_10	dev/krypton/9M	method_25402	(Lnet/minecraft/class_11909;Z)Z	success	typed	1	true
+0x2a1510	JNI_dev_krypton_9M_method_25403_11	dev/krypton/9M	method_25403	(Lnet/minecraft/class_11909;DD)Z	success	typed	1	true
+0x2a3320	JNI_dev_krypton_9M_method_25401_12	dev/krypton/9M	method_25401	(DDDD)Z	success	typed	1	true
+0x2a4d40	JNI_dev_krypton_9M_method_25421_13	dev/krypton/9M	method_25421	()Z	success	typed	3	true
+0x2a4d50	JNI_dev_krypton_9M_method_25419_14	dev/krypton/9M	method_25419	()V	success	typed	1	true
+0x2a5cd0	JNI_dev_krypton_9M_8_15	dev/krypton/9M	8	([Ljava/lang/Object;)V	success	typed	1	true
+0x2a7550	JNI_dev_krypton_9M_method_25406_16	dev/krypton/9M	method_25406	(Lnet/minecraft/class_11909;)Z	success	typed	1	true
+0x2a90b0	JNI_dev_krypton_9M_2_17	dev/krypton/9M	2	([Ljava/lang/Object;)V	success	typed	1	true
+0x2ac220	JNI_dev_krypton_9M_1_18	dev/krypton/9M	1	(I)V	success	typed	1	true
+0x2ac290	JNI_dev_krypton_9M_2_19	dev/krypton/9M	2	()I	success	typed	1	true
+0x2ac310	JNI_dev_krypton_9M_8_20	dev/krypton/9M	8	()I	success	typed	1	true
+0x2ac380	JNI_dev_krypton_9M_a_21	dev/krypton/9M	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0x2ac390	JNI_dev_krypton_9M_a_22	dev/krypton/9M	a	([B)Ljava/lang/String;	success	typed	1	true
+0x2ac960	JNI_dev_krypton_9M_a_23	dev/krypton/9M	a	(IJ)Ljava/lang/String;	success	typed	1	true
+0x2ad910	JNI_dev_krypton_9M_a_24	dev/krypton/9M	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x2addf0	JNI_dev_krypton_9M_a_25	dev/krypton/9M	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x2ae6e0	JNI_dev_krypton_9M_b_26	dev/krypton/9M	b	(IJ)I	success	typed	1	true
+0x2b0010	JNI_dev_krypton_9M_b_27	dev/krypton/9M	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x2b0560	JNI_dev_krypton_9M_b_28	dev/krypton/9M	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x2b0e50	JNI_dev_krypton_9M_a_29	dev/krypton/9M	a	(JJ)I	success	typed	1	true
+0x2b17f0	JNI_dev_krypton_9M_a_30	dev/krypton/9M	a	()V	success	typed	1	true
+0x2b5e20	JNI_dev_krypton_9M_b_31	dev/krypton/9M	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x2b62e0	JNI_dev_krypton_9M_a_32	dev/krypton/9M	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x2b6590	JNI_dev_krypton_9M_b_33	dev/krypton/9M	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x2b67c0	JNI_dev_krypton_9M_c_34	dev/krypton/9M	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x2b7510	JNI_dev_krypton_9M_a_35	dev/krypton/9M	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x2b7970	JNI_dev_krypton_9M_b_36	dev/krypton/9M	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x2b7be0	JNI_dev_krypton_9M_d_37	dev/krypton/9M	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x2b8e70	JNI_dev_krypton_9M_a_38	dev/krypton/9M	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x2b9cd0	JNI_dev_krypton_9M_a_39	dev/krypton/9M	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x2ba150	JNI_dev_krypton_9M_c_40	dev/krypton/9M	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x2baab0	JNI_index_49_7_0		7	([Ljava/lang/Object;)V	success	tail	1	false
+0x2bba70	JNI_index_49_1_1		1	([Ljava/lang/Object;)[B	success	tail	1	false
+0x2bc100	JNI_index_49_9_2		9	([Ljava/lang/Object;)[B	success	tail	1	false
+0x2bc790	JNI_index_49_a_3		a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	tail	4	false
+0x2bc7a0	JNI_index_49_a_4		a	(JJ)I	success	tail	1	false
+0x2bd140	JNI_index_49_a_5		a	()V	success	tail	1	false
+0x2bd850	JNI_index_49_b_6		b	(JJ)Ljava/lang/Class;	success	tail	1	false
+0x2bdd10	JNI_index_49_a_7		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2bdfc0	JNI_index_49_b_8		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2be1f0	JNI_index_49_c_9		c	(JJ)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2bef40	JNI_index_49_a_10		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2bf3a0	JNI_index_49_b_11		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2bf610	JNI_index_49_d_12		d	(JJ)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2c08a0	JNI_index_49_a_13		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	tail	1	false
+0x2c1730	JNI_index_49_a_14		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	false
+0x2c1bb0	JNI_index_49_a_15		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x2c2510	JNI_3X_7_0	3X	7	([Ljava/lang/Object;)V	success	typed	1	true
+0x2c41c0	JNI_3X_2_1	3X	2	([Ljava/lang/Object;)V	success	typed	1	true
+0x2c4780	JNI_3X_2_2	3X	2	([Ljava/lang/Object;)[B	success	typed	1	true
+0x2c6740	JNI_3X_3_3	3X	3	([Ljava/lang/Object;)[B	success	typed	1	true
+0x2c88b0	JNI_3X_7_4	3X	7	([Ljava/lang/Object;)[B	success	typed	1	true
+0x2c91a0	JNI_3X_0_5	3X	0	([Ljava/lang/Object;)[B	success	typed	1	true
+0x2ca920	JNI_3X_4_6	3X	4	(I[B[[BJ[BI)V	success	typed	1	true
+0x2cc740	JNI_3X_6_7	3X	6	(I[B[[B[BJI)V	success	typed	1	true
+0x2cdfb0	JNI_3X_3_8	3X	3	(I)V	success	typed	1	true
+0x2ce020	JNI_3X_3_9	3X	3	()I	success	typed	1	true
+0x2ce0a0	JNI_3X_4_10	3X	4	()I	success	typed	1	true
+0x2ce110	JNI_3X_a_11	3X	a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	typed	4	true
+0x2ce120	JNI_3X_a_12	3X	a	(IJ)I	success	typed	1	true
+0x2cfa50	JNI_3X_a_13	3X	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x2cffa0	JNI_3X_a_14	3X	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x2d0890	JNI_3X_a_15	3X	a	(JJ)I	success	typed	1	true
+0x2d1230	JNI_3X_a_16	3X	a	()V	success	typed	1	true
+0x2d28a0	JNI_3X_b_17	3X	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x2d2d60	JNI_3X_a_18	3X	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x2d3010	JNI_3X_b_19	3X	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x2d3240	JNI_3X_c_20	3X	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x2d3f90	JNI_3X_a_21	3X	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x2d43f0	JNI_3X_b_22	3X	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x2d4660	JNI_3X_d_23	3X	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x2d58f0	JNI_3X_a_24	3X	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x2d6780	JNI_3X_a_25	3X	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x2d6c00	JNI_3X_b_26	3X	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x2d7560	JNI_index_42_4_0		4	([Ljava/lang/Object;)V	success	tail	1	false
+0x2d8e70	JNI_index_42_7_1		7	([Ljava/lang/Object;)V	success	tail	1	false
+0x2d9450	JNI_index_42_9_2		9	([Ljava/lang/Object;)V	failed	tail	1	false
+0x2e0470	JNI_index_42_0_3		0	([Ljava/lang/Object;)V	success	tail	1	false
+0x2e1860	JNI_index_42_3_4		3	([Ljava/lang/Object;)V	success	tail	1	false
+0x2e2b00	JNI_index_42_7_5		7	([Ljava/lang/Object;)Z	success	tail	1	false
+0x2e3130	JNI_index_42_a_6		a	(Ljava/lang/Exception;)Ljava/lang/Exception;	success	tail	4	false
+0x2e3140	JNI_index_42_a_7		a	([B)Ljava/lang/String;	success	tail	1	false
+0x2e3710	JNI_index_42_a_8		a	(IJ)I	success	tail	1	false
+0x2e5040	JNI_index_42_a_9		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	tail	1	false
+0x2e5590	JNI_index_42_a_10		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x2e5e80	JNI_index_42_a_11		a	(JJ)I	success	tail	1	false
+0x2e6820	JNI_index_42_a_12		a	()V	success	tail	1	false
+0x2e87b0	JNI_index_42_b_13		b	(JJ)Ljava/lang/Class;	success	tail	1	false
+0x2e8c70	JNI_index_42_a_14		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2e8f20	JNI_index_42_b_15		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2e9150	JNI_index_42_c_16		c	(JJ)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2e9ea0	JNI_index_42_a_17		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2ea300	JNI_index_42_b_18		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2ea570	JNI_index_42_d_19		d	(JJ)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2eb800	JNI_index_42_a_20		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	tail	1	false
+0x2ec660	JNI_index_42_a_21		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	false
+0x2ecae0	JNI_index_42_b_22		b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x2ed440	JNI_index_44_1_0		1	([Ljava/lang/Object;)V	success	tail	1	false
+0x2ee8d0	JNI_index_44_0_1		0	([Ljava/lang/Object;)[B	success	tail	1	false
+0x2eef70	JNI_index_44_3_2		3	([Ljava/lang/Object;)[B	success	tail	1	false
+0x2ef3f0	JNI_index_44_a_3		a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	tail	4	false
+0x2ef400	JNI_index_44_a_4		a	(IJ)I	success	tail	1	false
+0x2f0d30	JNI_index_44_a_5		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	tail	1	false
+0x2f1280	JNI_index_44_a_6		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x2f1b70	JNI_index_44_a_7		a	(JJ)I	success	tail	1	false
+0x2f2510	JNI_index_44_a_8		a	()V	success	tail	1	false
+0x2f28c0	JNI_index_44_b_9		b	(JJ)Ljava/lang/Class;	success	tail	1	false
+0x2f2d80	JNI_index_44_a_10		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2f3030	JNI_index_44_b_11		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2f3260	JNI_index_44_c_12		c	(JJ)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2f3fb0	JNI_index_44_a_13		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2f4410	JNI_index_44_b_14		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2f4680	JNI_index_44_d_15		d	(JJ)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2f5910	JNI_index_44_a_16		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	tail	1	false
+0x2f6770	JNI_index_44_a_17		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	false
+0x2f6bf0	JNI_index_44_b_18		b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x2f7550	JNI_index_20_1_0		1	([Ljava/lang/Object;)[B	success	tail	1	false
+0x2f8050	JNI_index_20_9_1		9	([Ljava/lang/Object;)[B	success	tail	1	false
+0x2f8bb0	JNI_index_20_6_2		6	([Ljava/lang/String;)V	success	tail	1	false
+0x2f8c20	JNI_index_20_4_3		4	()[Ljava/lang/String;	success	tail	1	false
+0x2f8c90	JNI_index_20_a_4		a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	tail	4	false
+0x2f8ca0	JNI_index_20_a_5		a	(JJ)I	success	tail	1	false
+0x2f9640	JNI_index_20_a_6		a	()V	success	tail	1	false
+0x2f9e20	JNI_index_20_b_7		b	(JJ)Ljava/lang/Class;	success	tail	1	false
+0x2fa2e0	JNI_index_20_a_8		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2fa590	JNI_index_20_b_9		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2fa7c0	JNI_index_20_c_10		c	(JJ)Ljava/lang/reflect/Field;	success	tail	1	false
+0x2fb510	JNI_index_20_a_11		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2fb970	JNI_index_20_b_12		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2fbbe0	JNI_index_20_d_13		d	(JJ)Ljava/lang/reflect/Method;	success	tail	1	false
+0x2fce70	JNI_index_20_a_14		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	tail	1	false
+0x2fdcf0	JNI_index_20_a_15		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	false
+0x2fe170	JNI_index_20_a_16		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x2fead0	JNI_index_19_4_0		4	([Ljava/lang/Object;)V	success	tail	1	false
+0x2ff050	JNI_index_19_0_1		0	([Ljava/lang/Object;)V	success	tail	1	false
+0x300e80	JNI_index_19_3_2		3	([Ljava/lang/Object;)V	success	tail	1	false
+0x3017e0	JNI_index_19_8_3		8	([Ljava/lang/Object;)V	success	tail	1	false
+0x302140	JNI_index_19_8_4		8	([Ldev/krypton/4w;)V	success	tail	1	false
+0x3021b0	JNI_index_19_4_5		4	()[Ldev/krypton/4w;	success	tail	1	false
+0x302220	JNI_index_19_a_6		a	(Ljava/lang/MatchException;)Ljava/lang/MatchException;	success	tail	4	false
+0x302230	JNI_index_19_a_7		a	(IJ)I	success	tail	1	false
+0x303b60	JNI_index_19_a_8		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	tail	1	false
+0x3040b0	JNI_index_19_a_9		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x3049a0	JNI_index_19_a_10		a	(JJ)I	success	tail	1	false
+0x305340	JNI_index_19_a_11		a	()V	success	tail	1	false
+0x305bb0	JNI_index_19_b_12		b	(JJ)Ljava/lang/Class;	success	tail	1	false
+0x306070	JNI_index_19_a_13		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x306320	JNI_index_19_b_14		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	tail	1	false
+0x306550	JNI_index_19_c_15		c	(JJ)Ljava/lang/reflect/Field;	success	tail	1	false
+0x3072a0	JNI_index_19_a_16		a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x307700	JNI_index_19_b_17		b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	tail	1	false
+0x307970	JNI_index_19_d_18		d	(JJ)Ljava/lang/reflect/Method;	success	tail	1	false
+0x308c00	JNI_index_19_a_19		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	tail	1	false
+0x309a90	JNI_index_19_a_20		a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	tail	1	false
+0x309f10	JNI_index_19_b_21		b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	tail	1	false
+0x30a870	JNI_9l_5_0	9l	5	([Ljava/lang/Object;)V	success	typed	1	true
+0x30af20	JNI_9l_6_1	9l	6	([B)[B	success	typed	4	true
+0x30af30	JNI_9l_9_2	9l	9	([Ljava/lang/Object;)V	success	typed	1	true
+0x30b360	JNI_9l_2_3	9l	2	([Ljava/lang/Object;)V	success	typed	1	true
+0x30b790	JNI_9l_7_4	9l	7	([Ljava/lang/Object;)V	success	typed	1	true
+0x30d320	JNI_9l_8_5	9l	8	([Ljava/lang/Object;)V	success	typed	1	true
+0x310ce0	JNI_9l_0_6	9l	0	([Ljava/lang/Object;)V	success	typed	1	true
+0x313610	JNI_9l_1_7	9l	1	([Ljava/lang/Object;)V	success	typed	1	true
+0x313c20	JNI_9l_4_8	9l	4	([Ljava/lang/Object;)V	success	typed	1	true
+0x314d40	JNI_9l_6_9	9l	6	([Ljava/lang/Object;)V	success	typed	1	true
+0x316030	JNI_9l_8_10	9l	8	(Ljava/lang/Throwable;)V	success	typed	1	true
+0x316040	JNI_9l_3_11	9l	3	()V	success	typed	1	true
+0x316050	JNI_9l_4_12	9l	4	(I)V	success	typed	1	true
+0x3160c0	JNI_9l_0_13	9l	0	()I	success	typed	1	true
+0x316140	JNI_9l_4_14	9l	4	()I	success	typed	1	true
+0x3161b0	JNI_9l_a_15	9l	a	(Ljava/io/IOException;)Ljava/io/IOException;	success	typed	4	true
+0x3161c0	JNI_9l_a_16	9l	a	(IJ)I	success	typed	1	true
+0x317af0	JNI_9l_a_17	9l	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x318040	JNI_9l_a_18	9l	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x318930	JNI_9l_a_19	9l	a	(JJ)I	success	typed	1	true
+0x3192d0	JNI_9l_a_20	9l	a	()V	success	typed	1	true
+0x31b200	JNI_9l_b_21	9l	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x31b6c0	JNI_9l_a_22	9l	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x31b970	JNI_9l_b_23	9l	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x31bba0	JNI_9l_c_24	9l	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x31c8f0	JNI_9l_a_25	9l	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x31cd50	JNI_9l_b_26	9l	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x31cfc0	JNI_9l_d_27	9l	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x31e250	JNI_9l_a_28	9l	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x31f0e0	JNI_9l_a_29	9l	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x31f560	JNI_9l_b_30	9l	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x31fec0	JNI_index_58_getHWID_0		getHWID	()Ljava/lang/String;	success	tail	3	false
+0x31fed0	JNI_index_58_sha256_1		sha256	([B)[B	success	tail	3	false
+0x31fee0	JNI_index_58_unscramble_2		unscramble	(Ljava/lang/String;)Ljava/lang/String;	success	tail	3	false
+0x31fef0	JNI_index_58_writeShortString_3		writeShortString	(Ljava/lang/String;)[B	success	tail	3	false
+0x31ff00	JNI_index_58_generatePermutation_4		generatePermutation	([B)[[B	success	tail	3	false
+0x31ff10	JNI_index_58_mixBytes_5		mixBytes	([B)V	success	tail	1	false
+0x31ff20	JNI_index_58_invertMixBytes_6		invertMixBytes	([B)V	success	tail	1	false
+0x31ff30	JNI_index_58_generateTimeBasedKey_7		generateTimeBasedKey	()[B	success	tail	3	false
+0x31ff40	JNI_index_58_cloudDecrypt_8		cloudDecrypt	([B[B[B[BI)Ljava/lang/String;	success	tail	3	false
+0x31ff50	JNI_index_58_readBytes_9		readBytes	([B[II)[B	success	tail	3	false
+0x31ff60	JNI_index_58_readShortBytes_10		readShortBytes	([B[I)[B	success	tail	3	false
+0x31ff70	JNI_index_58_readShortString_11		readShortString	([B[I)Ljava/lang/String;	success	tail	3	false
+0x31ff80	JNI_dev_krypton_2_7_0	dev/krypton/2	7	([Ljava/lang/Object;)Lnet/minecraft/class_2960;	success	typed	1	true
+0x320510	JNI_dev_krypton_2_3_1	dev/krypton/2	3	(J)V	success	typed	1	true
+0x322690	JNI_dev_krypton_2_8_2	dev/krypton/2	8	([Ljava/lang/Object;)Ldev/krypton/6;	success	typed	1	true
+0x322a00	JNI_dev_krypton_2_3_3	dev/krypton/2	3	([Ljava/lang/Object;)Ldev/krypton/02;	success	typed	1	true
+0x322d70	JNI_dev_krypton_2_8_4	dev/krypton/2	8	([Ljava/lang/Object;)Ldev/krypton/4w;	success	typed	1	true
+0x3230e0	JNI_dev_krypton_2_5_5	dev/krypton/2	5	([Ljava/lang/Object;)Ldev/krypton/9M;	success	typed	1	true
+0x323450	JNI_dev_krypton_2_3_6	dev/krypton/2	3	(JLjava/lang/Throwable;)V	success	typed	1	true
+0x323ca0	JNI_dev_krypton_2_2_7	dev/krypton/2	2	(Ljava/lang/String;J)V	success	typed	1	true
+0x326300	JNI_dev_krypton_2_4_8	dev/krypton/2	4	(L3X;ILjava/lang/String;SCLjava/lang/String;[B)V	failed	typed	1	true
+0x33cdf0	JNI_dev_krypton_2_4_9	dev/krypton/2	4	(Ljava/lang/String;Ljava/lang/String;J)V	success	typed	1	true
+0x33dcc0	JNI_dev_krypton_2_0_10	dev/krypton/2	0	(JLjava/lang/String;)V	success	typed	1	true
+0x33e5c0	JNI_dev_krypton_2_8_11	dev/krypton/2	8	(IBILjava/lang/String;Z)V	success	typed	1	true
+0x33f460	JNI_dev_krypton_2_0_12	dev/krypton/2	0	(IIZCSI)V	success	typed	1	true
+0x33fe90	JNI_dev_krypton_2_3_13	dev/krypton/2	3	(JLjava/util/List;)V	success	typed	1	true
+0x340790	JNI_dev_krypton_2_1_14	dev/krypton/2	1	(IJLjava/util/List;)V	success	typed	1	true
+0x341140	JNI_dev_krypton_2_7_15	dev/krypton/2	7	(Ljava/lang/String;J)V	success	typed	1	true
+0x341a50	JNI_dev_krypton_2_8_16	dev/krypton/2	8	(J)V	success	typed	1	true
+0x3429a0	JNI_dev_krypton_2_7_17	dev/krypton/2	7	(J)V	success	typed	1	true
+0x343240	JNI_dev_krypton_2_6_18	dev/krypton/2	6	(J)V	success	typed	1	true
+0x343ae0	JNI_dev_krypton_2_1_19	dev/krypton/2	1	(J)V	success	typed	1	true
+0x344380	JNI_dev_krypton_2_9_20	dev/krypton/2	9	(J)V	success	typed	1	true
+0x344c20	JNI_dev_krypton_2_5_21	dev/krypton/2	5	(Ljava/lang/String;IJ)V	success	typed	1	true
+0x345ae0	JNI_dev_krypton_2_7_22	dev/krypton/2	7	(ICCI)V	success	typed	1	true
+0x346450	JNI_dev_krypton_2_3_23	dev/krypton/2	3	(Ljava/lang/String;J)V	success	typed	1	true
+0x347250	JNI_dev_krypton_2_0_24	dev/krypton/2	0	(ICILjava/lang/String;Ljava/lang/String;)V	failed	typed	1	true
+0x364be0	JNI_dev_krypton_2_9_25	dev/krypton/2	9	(SLjava/lang/String;CILjava/lang/String;)V	success	typed	1	true
+0x367790	JNI_dev_krypton_2_5_26	dev/krypton/2	5	(J)V	success	typed	1	true
+0x367fc0	JNI_dev_krypton_2_5_27	dev/krypton/2	5	(JBLjava/lang/Runnable;)Ljava/lang/Thread;	success	typed	1	true
+0x368850	JNI_dev_krypton_2_9_28	dev/krypton/2	9	([Ljava/lang/String;)V	success	typed	1	true
+0x3688c0	JNI_dev_krypton_2_7_29	dev/krypton/2	7	()[Ljava/lang/String;	success	typed	1	true
+0x368930	JNI_dev_krypton_2_a_30	dev/krypton/2	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	success	typed	4	true
+0x368940	JNI_dev_krypton_2_a_31	dev/krypton/2	a	([B)Ljava/lang/String;	success	typed	1	true
+0x368f10	JNI_dev_krypton_2_a_32	dev/krypton/2	a	(IJ)Ljava/lang/String;	success	typed	1	true
+0x369ec0	JNI_dev_krypton_2_a_33	dev/krypton/2	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x36a3a0	JNI_dev_krypton_2_a_34	dev/krypton/2	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x36ac90	JNI_dev_krypton_2_b_35	dev/krypton/2	b	(IJ)I	success	typed	1	true
+0x36c5c0	JNI_dev_krypton_2_b_36	dev/krypton/2	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	typed	1	true
+0x36cb10	JNI_dev_krypton_2_b_37	dev/krypton/2	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x36d400	JNI_dev_krypton_2_c_38	dev/krypton/2	c	(IJ)J	success	typed	1	true
+0x36ef80	JNI_dev_krypton_2_c_39	dev/krypton/2	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)J	success	typed	1	true
+0x36f4d0	JNI_dev_krypton_2_c_40	dev/krypton/2	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x36fdc0	JNI_dev_krypton_2_a_41	dev/krypton/2	a	(JJ)I	success	typed	1	true
+0x370760	JNI_dev_krypton_2_a_42	dev/krypton/2	a	()V	success	typed	1	true
+0x3757c0	JNI_dev_krypton_2_b_43	dev/krypton/2	b	(JJ)Ljava/lang/Class;	success	typed	1	true
+0x375c80	JNI_dev_krypton_2_a_44	dev/krypton/2	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x375f30	JNI_dev_krypton_2_b_45	dev/krypton/2	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	typed	1	true
+0x376160	JNI_dev_krypton_2_c_46	dev/krypton/2	c	(JJ)Ljava/lang/reflect/Field;	success	typed	1	true
+0x376eb0	JNI_dev_krypton_2_a_47	dev/krypton/2	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x377310	JNI_dev_krypton_2_b_48	dev/krypton/2	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	typed	1	true
+0x377580	JNI_dev_krypton_2_d_49	dev/krypton/2	d	(JJ)Ljava/lang/reflect/Method;	success	typed	1	true
+0x378810	JNI_dev_krypton_2_a_50	dev/krypton/2	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	typed	1	true
+0x379690	JNI_dev_krypton_2_a_51	dev/krypton/2	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	typed	1	true
+0x379b10	JNI_dev_krypton_2_d_52	dev/krypton/2	d	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	typed	1	true
+0x37a8b0	JNI_dev_krypton_6_0_0	dev/krypton/6	0	([Ljava/lang/Object;)Ljava/lang/String;	success	initial	1	true
+0x37af50	JNI_dev_krypton_6_3_1	dev/krypton/6	3	([Ljava/lang/Object;)Ljava/lang/String;	success	initial	1	true
+0x37b5f0	JNI_dev_krypton_6_1_2	dev/krypton/6	1	([Ljava/lang/Object;)Lcom/google/gson/JsonObject;	success	initial	1	true
+0x37e760	JNI_dev_krypton_6_6_3	dev/krypton/6	6	([Ljava/lang/Object;)V	success	initial	1	true
+0x37f820	JNI_dev_krypton_6_2q_4	dev/krypton/6	2q	([Ljava/lang/Object;)V	success	initial	1	true
+0x37fd10	JNI_dev_krypton_6_8_5	dev/krypton/6	8	([Ljava/lang/Object;)V	success	initial	1	true
+0x380410	JNI_dev_krypton_6_3_6	dev/krypton/6	3	([Ljava/lang/Object;)V	success	repair	1	true
+0x386b00	JNI_dev_krypton_6_9_7	dev/krypton/6	9	([Ljava/lang/Object;)V	success	initial	1	true
+0x387d00	JNI_dev_krypton_6_3Y_8	dev/krypton/6	3Y	([Ljava/lang/Object;)V	success	initial	1	true
+0x388750	JNI_dev_krypton_6_4P_9	dev/krypton/6	4P	([Ljava/lang/Object;)V	success	initial	1	true
+0x3892a0	JNI_dev_krypton_6_2_10	dev/krypton/6	2	([Ljava/lang/Object;)V	success	initial	1	true
+0x38a160	JNI_dev_krypton_6_1T_11	dev/krypton/6	1T	([Ljava/lang/Object;)V	success	initial	1	true
+0x38b350	JNI_dev_krypton_6_5_12	dev/krypton/6	5	([Ljava/lang/Object;)V	success	initial	1	true
+0x38bf70	JNI_dev_krypton_6_7U_13	dev/krypton/6	7U	([Ljava/lang/Object;)V	success	initial	1	true
+0x38cbb0	JNI_dev_krypton_6_71_14	dev/krypton/6	71	([Ljava/lang/Object;)V	success	initial	1	true
+0x38d7f0	JNI_dev_krypton_6_1m_15	dev/krypton/6	1m	([Ljava/lang/Object;)V	success	initial	1	true
+0x38e7b0	JNI_dev_krypton_6_1_16	dev/krypton/6	1	([Ljava/lang/Object;)V	success	initial	1	true
+0x38f1f0	JNI_dev_krypton_6_2M_17	dev/krypton/6	2M	([Ljava/lang/Object;)V	success	initial	1	true
+0x38f760	JNI_dev_krypton_6_7_18	dev/krypton/6	7	([Ljava/lang/Object;)V	success	initial	1	true
+0x390490	JNI_dev_krypton_6_4_19	dev/krypton/6	4	([Ljava/lang/Object;)V	success	initial	1	true
+0x3911c0	JNI_dev_krypton_6_0_20	dev/krypton/6	0	([Ljava/lang/Object;)V	success	initial	1	true
+0x391b10	JNI_dev_krypton_6_14_21	dev/krypton/6	14	([Ljava/lang/Object;)V	success	initial	1	true
+0x392740	JNI_dev_krypton_6_9_22	dev/krypton/6	9	([Ljava/lang/Object;)I	success	initial	1	true
+0x392b70	JNI_dev_krypton_6_3_23	dev/krypton/6	3	([Ljava/lang/Object;)Ljava/util/List;	success	initial	1	true
+0x395010	JNI_dev_krypton_6_1_24	dev/krypton/6	1	([Ljava/lang/Object;)Ljava/util/List;	success	repair	1	true
+0x398a70	JNI_dev_krypton_6_3_25	dev/krypton/6	3	(Z)V	success	initial	1	true
+0x398ae0	JNI_dev_krypton_6_2_26	dev/krypton/6	2	()Z	success	initial	1	true
+0x398b60	JNI_dev_krypton_6_7_27	dev/krypton/6	7	()Z	success	initial	1	true
+0x398bd0	JNI_dev_krypton_6_a_28	dev/krypton/6	a	(Ljava/lang/Exception;)Ljava/lang/Exception;	success	typed	4	true
+0x398be0	JNI_dev_krypton_6_a_29	dev/krypton/6	a	([B)Ljava/lang/String;	success	initial	1	true
+0x3991b0	JNI_dev_krypton_6_a_30	dev/krypton/6	a	(IJ)Ljava/lang/String;	success	initial	1	true
+0x39a170	JNI_dev_krypton_6_a_31	dev/krypton/6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;	success	initial	1	true
+0x39a650	JNI_dev_krypton_6_a_32	dev/krypton/6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x39af30	JNI_dev_krypton_6_b_33	dev/krypton/6	b	(IJ)I	success	initial	1	true
+0x39c820	JNI_dev_krypton_6_b_34	dev/krypton/6	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;[Ljava/lang/Object;)I	success	initial	1	true
+0x39cd70	JNI_dev_krypton_6_b_35	dev/krypton/6	b	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x39d650	JNI_dev_krypton_6_a_36	dev/krypton/6	a	(JJ)I	success	initial	1	true
+0x39dff0	JNI_dev_krypton_6_a_37	dev/krypton/6	a	()V	success	initial	1	true
+0x3a1140	JNI_dev_krypton_6_b_38	dev/krypton/6	b	(JJ)Ljava/lang/Class;	success	initial	1	true
+0x3a1600	JNI_dev_krypton_6_a_39	dev/krypton/6	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	initial	1	true
+0x3a18b0	JNI_dev_krypton_6_b_40	dev/krypton/6	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Field;	success	initial	1	true
+0x3a1b00	JNI_dev_krypton_6_c_41	dev/krypton/6	c	(JJ)Ljava/lang/reflect/Field;	success	initial	1	true
+0x3a2860	JNI_dev_krypton_6_a_42	dev/krypton/6	a	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	initial	1	true
+0x3a2cc0	JNI_dev_krypton_6_b_43	dev/krypton/6	b	(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Class;I[Ljava/lang/Class;)Ljava/lang/reflect/Method;	success	initial	1	true
+0x3a2f40	JNI_dev_krypton_6_d_44	dev/krypton/6	d	(JJ)Ljava/lang/reflect/Method;	success	initial	1	true
+0x3a41c0	JNI_dev_krypton_6_a_45	dev/krypton/6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;JJ)Ljava/lang/invoke/MethodHandle;	success	initial	1	true
+0x3a5040	JNI_dev_krypton_6_a_46	dev/krypton/6	a	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;	success	initial	1	true
+0x3a54c0	JNI_dev_krypton_6_c_47	dev/krypton/6	c	(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;	success	initial	1	true
+0x3a8080	Krypton_RegisterNatives_dispatcher				success	initial	1	true

@@ -1,0 +1,488 @@
+/*
+ * Decompiled with CFR 0.152.
+ * 
+ * Could not load the following classes:
+ *  java.lang.MatchException
+ *  net.minecraft.class_2596
+ *  net.minecraft.class_2824
+ *  net.minecraft.class_310
+ */
+package dev.krypton;
+
+import dev.krypton._3i_0;
+import dev.krypton._3s;
+import dev.krypton._4r;
+import dev.krypton._4w;
+import dev.krypton._5;
+import dev.krypton._6f_0;
+import dev.krypton._6x_0;
+import dev.krypton.l;
+import java.lang.invoke.CallSite;
+import java.lang.invoke.MethodHandle;
+import java.lang.invoke.MethodHandles;
+import java.lang.invoke.MethodType;
+import java.lang.invoke.MutableCallSite;
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+import java.security.Key;
+import javax.crypto.Cipher;
+import javax.crypto.SecretKeyFactory;
+import javax.crypto.spec.DESKeySpec;
+import javax.crypto.spec.IvParameterSpec;
+import net.minecraft.class_2596;
+import net.minecraft.class_2824;
+import net.minecraft.class_310;
+
+public class _62
+extends _6x_0 {
+    private static final long b = l.a(-3411661285755166572L, 5914648894975283922L, MethodHandles.lookup().lookupClass()).a(74427912256341L);
+    private static final long d;
+    private static final Object[] e;
+    private static final String[] f;
+
+    public _62(long l2) {
+        long l3 = (l2 = b ^ l2) ^ 0x3EF831EBBB9FL;
+        super((int)d, -1, (_4r)((Object)_62.a("\u00c8", 1348209176115047706L, (long)l2)), l3);
+    }
+
+    /*
+     * Enabled aggressive block sorting
+     */
+    static {
+        e = new Object[10];
+        f = new String[10];
+        _62.b();
+        long l2 = b ^ 0x285217CF3A50L;
+        Cipher cipher = Cipher.getInstance("DES/CBC/NoPadding");
+        SecretKeyFactory secretKeyFactory = SecretKeyFactory.getInstance("DES");
+        byte[] byArray = new byte[8];
+        byte[] byArray2 = byArray;
+        byArray[0] = (byte)(l2 >>> 56);
+        int n = 1;
+        while (true) {
+            if (n >= 8) {
+                cipher.init(2, (Key)secretKeyFactory.generateSecret(new DESKeySpec(byArray2)), new IvParameterSpec(new byte[8]));
+                long l3 = -4998216631452189984L;
+                byte[] byArray3 = cipher.doFinal(new byte[]{(byte)(l3 >>> 56), (byte)(l3 >>> 48), (byte)(l3 >>> 40), (byte)(l3 >>> 32), (byte)(l3 >>> 24), (byte)(l3 >>> 16), (byte)(l3 >>> 8), (byte)l3});
+                d = ((long)byArray3[0] & 0xFFL) << 56 | ((long)byArray3[1] & 0xFFL) << 48 | ((long)byArray3[2] & 0xFFL) << 40 | ((long)byArray3[3] & 0xFFL) << 32 | ((long)byArray3[4] & 0xFFL) << 24 | ((long)byArray3[5] & 0xFFL) << 16 | ((long)byArray3[6] & 0xFFL) << 8 | (long)byArray3[7] & 0xFFL;
+                return;
+            }
+            byArray2 = byArray2;
+            byArray2[n] = (byte)(l2 << n * 8 >>> 56);
+            ++n;
+        }
+    }
+
+    private static int e(long l2, long l3) {
+        int n;
+        int n2;
+        int n3 = (int)((l2 ^= l3 << 48 | l3) >>> 46);
+        if (f[n3] != null) {
+            return n3;
+        }
+        Object object = e[n3];
+        if (!(object instanceof String)) {
+            return n3;
+        }
+        int n4 = 0;
+        n4 = switch ((int)(l2 >>> 42 & 0x3FL)) {
+            case 0 -> 63;
+            case 1 -> 39;
+            case 2 -> 55;
+            case 3 -> 40;
+            case 4 -> 18;
+            case 5 -> 25;
+            case 6 -> 12;
+            case 7 -> 56;
+            case 8 -> 6;
+            case 9 -> 54;
+            case 10 -> 42;
+            case 11 -> 47;
+            case 12 -> 16;
+            case 13 -> 38;
+            case 14 -> 61;
+            case 15 -> 15;
+            case 16 -> 3;
+            case 17 -> 7;
+            case 18 -> 30;
+            case 19 -> 37;
+            case 20 -> 51;
+            case 21 -> 11;
+            case 22 -> 5;
+            case 23 -> 9;
+            case 24 -> 23;
+            case 25 -> 20;
+            case 26 -> 33;
+            case 27 -> 31;
+            case 28 -> 35;
+            case 29 -> 14;
+            case 30 -> 19;
+            case 31 -> 4;
+            case 32 -> 53;
+            case 33 -> 57;
+            case 34 -> 43;
+            case 35 -> 60;
+            case 36 -> 59;
+            case 37 -> 24;
+            case 38 -> 10;
+            case 39 -> 36;
+            case 40 -> 52;
+            case 41 -> 44;
+            case 42 -> 41;
+            case 43 -> 0;
+            case 44 -> 1;
+            case 45 -> 21;
+            case 46 -> 45;
+            case 47 -> 50;
+            case 48 -> 2;
+            case 49 -> 22;
+            case 50 -> 28;
+            case 51 -> 26;
+            case 52 -> 62;
+            case 53 -> 27;
+            case 54 -> 46;
+            case 55 -> 29;
+            case 56 -> 17;
+            case 57 -> 8;
+            case 58 -> 48;
+            case 59 -> 58;
+            case 60 -> 32;
+            case 61 -> 49;
+            case 62 -> 34;
+            default -> 13;
+        };
+        int[] nArray = new int[6];
+        int n5 = 0;
+        while (n5 < 6) {
+            n2 = 7 * (5 - n5);
+            n = (int)(l2 >>> n2 & 0x7FL);
+            if ((n -= n4) < 0) {
+                n += 128;
+            }
+            nArray[n5] = n;
+            ++n5;
+        }
+        char[] cArray = ((String)object).toCharArray();
+        n2 = 0;
+        while (n2 < cArray.length) {
+            n = nArray[n2 % nArray.length];
+            if (n == 0) break;
+            cArray[n2] = (char)(cArray[n2] ^ n);
+            ++n2;
+        }
+        _62.f[n3] = new String(cArray);
+        return n3;
+    }
+
+    static class_310 net_minecraft_class_310_9(Object[] objectArray) {
+        long l2 = (Long)objectArray[0];
+        _62 var3_2 = (_62)objectArray[1];
+        l2 = b ^ l2;
+        return _62.a("\u00e6", (Object)var3_2, 4779182086420230961L, (long)l2);
+    }
+
+    private static MethodHandle b(MethodHandles.Lookup lookup, MutableCallSite mutableCallSite, String string, MethodType methodType, long l2, long l3) {
+        char c = string.charAt(0);
+        MethodHandle methodHandle = null;
+        Field field = null;
+        Method method = null;
+        try {
+            if (c == '\u00e6' || c == 'H' || c == '\u00c8' || c == 't') {
+                field = _62.g(l2, l3);
+                Class<?> clazz = field.getDeclaringClass();
+                String string2 = field.getName();
+                Class<?> clazz2 = field.getType();
+                methodHandle = c == '\u00e6' ? lookup.findGetter(clazz, string2, clazz2) : (c == 'H' ? lookup.findSetter(clazz, string2, clazz2) : (c == '\u00c8' ? lookup.findStaticGetter(clazz, string2, clazz2) : lookup.findStaticSetter(clazz, string2, clazz2)));
+            } else {
+                method = _62.h(l2, l3);
+                Class<?> clazz = method.getDeclaringClass();
+                String string3 = method.getName();
+                MethodType methodType2 = MethodType.methodType(method.getReturnType(), method.getParameterTypes());
+                methodHandle = c == '\u00da' ? lookup.findVirtual(clazz, string3, methodType2) : (c == '\u00f5' ? lookup.findStatic(clazz, string3, methodType2) : lookup.findSpecial(clazz, string3, methodType2, clazz));
+            }
+            return MethodHandles.dropArguments(methodHandle, methodType.parameterCount() - 2, Long.TYPE, Long.TYPE);
+        }
+        catch (Exception exception) {
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.append(exception.getClass().getName()).append(" : ").append(field != null ? field.toString() : (method != null ? method.toString() : " null ")).append(" : ").append(exception.toString());
+            throw new RuntimeException(stringBuilder.toString());
+        }
+    }
+
+    private static void b() {
+        Object[] objectArray = e;
+        e[0] = "'(W@9q:=U\u0001<-u5";
+        objectArray[1] = "<\u0012jWG\r<\u0012}\u000bK\u0002&Y}\u0015K\u0017!(-H\u001a";
+        objectArray[2] = "\u000fp!U9s\u0012e#\u0014</_g";
+        objectArray[3] = "\u0018s,-_G\u0018s;qSH\u00028;oS]\u0005Ij;\u0000\u001a";
+        objectArray[4] = "p@F\u0010\n]p@QL\u0006Rj\u000bQR\u0006Gmz\u0000\u0006U\u0000:F^_\u0014GA\u0010\u000b\u000e_";
+        objectArray[5] = Void.TYPE;
+        _62.f[5] = "java/lang/Void";
+        objectArray[6] = "0\f68Uk;\u0003'w4e0\b#-";
+        objectArray[7] = "-tBmABk/Q(zbSUq\u001d&)-tBmABk/Q(";
+        objectArray[8] = "]AT\u001e9b\n\r\u0014\u0015B6\n\fL\u0019.\u0004\\L\u0016FsS]\u0000FA'*W\u0019\u001c\u0005Bh\u0005OJ\u000f$:X\u001dG~";
+        Object[] objectArray2 = objectArray;
+        objectArray[9] = "\u001fg\u0014J2d\u00185\u001f.oTGi\u0002_k1\u0011\u007fS\u0012";
+    }
+
+    private static Object b(MethodHandles.Lookup lookup, MutableCallSite mutableCallSite, String string, MethodType methodType, Object[] objectArray) {
+        int n = objectArray.length - 2;
+        long l2 = (Long)objectArray[n];
+        long l3 = (Long)objectArray[++n];
+        MethodHandle methodHandle = _62.b(lookup, mutableCallSite, string, methodType, l2, l3);
+        mutableCallSite.setTarget(MethodHandles.explicitCastArguments(methodHandle, methodType));
+        return methodHandle.asSpreader(Object[].class, objectArray.length).invoke(objectArray);
+    }
+
+    private static Field c(Class clazz, String string, Class clazz2) {
+        for (Field field : clazz.getDeclaredFields()) {
+            if (!field.getName().equals(string) || field.getType() != clazz2) continue;
+            return field;
+        }
+        return null;
+    }
+
+    private static Method c(Class clazz, String string, Class clazz2, int n, Class[] classArray) {
+        block0: for (Method method : clazz.getDeclaredMethods()) {
+            Class<?>[] classArray2;
+            if (!method.getName().equals(string) || method.getReturnType() != clazz2 || (classArray2 = method.getParameterTypes()).length != n) continue;
+            for (int j = 0; j < n; ++j) {
+                if (classArray2[j] != classArray[j]) continue block0;
+            }
+            return method;
+        }
+        return null;
+    }
+
+    private static Method h(long l2, long l3) {
+        int n = _62.e(l2, l3);
+        Object object = e[n];
+        if (object instanceof String) {
+            Class<?>[] classArray;
+            Class clazz;
+            Class clazz2;
+            Class[] classArray2;
+            int n2;
+            String string;
+            Class clazz3;
+            block10: {
+                String string2 = f[n];
+                int n3 = string2.indexOf(8);
+                clazz3 = _62.f(Long.parseLong(string2.substring(0, n3), 36), 0L);
+                int n4 = string2.indexOf(8, ++n3);
+                string = string2.substring(n3, n4);
+                int n5 = -1;
+                int n6 = n4;
+                do {
+                    ++n5;
+                    ++n6;
+                } while ((n6 = string2.indexOf(8, n6)) > -1);
+                n2 = n5 - 1;
+                classArray2 = new Class[n2];
+                clazz2 = null;
+                n6 = n4 + 1;
+                for (int j = 0; j < n5; ++j) {
+                    int n7 = string2.indexOf(8, n6);
+                    clazz2 = _62.f(Long.parseLong(string2.substring(n6, n7), 36), 0L);
+                    if (j < n2) {
+                        classArray2[j] = clazz2;
+                    }
+                    n6 = n7 + 1;
+                }
+                clazz = clazz3;
+                do {
+                    if ((classArray = _62.c(clazz, string, clazz2, n2, classArray2)) != null) {
+                        _62.e[n] = classArray;
+                        return classArray;
+                    }
+                    if (clazz.getName().equals("java.lang.Object")) break block10;
+                } while ((clazz = clazz.getSuperclass()) != null);
+                clazz = _62.f(484032842404916L, 0L);
+            }
+            clazz = clazz3;
+            while (true) {
+                if ((classArray = clazz.getInterfaces()) != null) {
+                    for (int j = 0; j < classArray.length; ++j) {
+                        Method method = _62.d(classArray[j], string, clazz2, n2, classArray2);
+                        if (method == null) continue;
+                        _62.e[n] = method;
+                        return method;
+                    }
+                }
+                if (clazz.getName().equals("java.lang.Object")) break;
+                if ((clazz = clazz.getSuperclass()) != null) continue;
+                clazz = _62.f(484032842404916L, 0L);
+            }
+            StringBuffer stringBuffer = new StringBuffer();
+            stringBuffer.append("NoSuchMethodException in ").append(clazz3.getName()).append(' ').append(clazz2.getName()).append(' ').append(string).append('(');
+            int n8 = 0;
+            while (n8 < n2) {
+                stringBuffer.append(classArray2[n8].getName());
+                if (++n8 >= n2) continue;
+                stringBuffer.append(", ");
+            }
+            stringBuffer.append(')');
+            throw new RuntimeException(stringBuffer.toString());
+        }
+        return (Method)object;
+    }
+
+    private static Class f(long l2, long l3) {
+        Object object;
+        Class<?> clazz;
+        block2: {
+            clazz = null;
+            int n = _62.e(l2, l3);
+            object = e[n];
+            try {
+                if (!(object instanceof String)) break block2;
+                _62.e[n] = clazz = Class.forName(f[n]);
+            }
+            catch (Exception exception) {
+                throw new RuntimeException(exception.toString());
+            }
+        }
+        clazz = (Class<?>)object;
+        return clazz;
+    }
+
+    private static Method d(Class clazz, String string, Class clazz2, int n, Class[] classArray) {
+        Method method = _62.c(clazz, string, clazz2, n, classArray);
+        if (method != null) {
+            return method;
+        }
+        Class<?>[] classArray2 = clazz.getInterfaces();
+        if (classArray2 != null) {
+            for (int j = 0; j < classArray2.length; ++j) {
+                method = _62.d(classArray2[j], string, clazz2, n, classArray);
+                if (method == null) continue;
+                return method;
+            }
+        }
+        return null;
+    }
+
+    private static Field d(Class clazz, String string, Class clazz2) {
+        Field field = _62.c(clazz, string, clazz2);
+        if (field != null) {
+            return field;
+        }
+        Class<?>[] classArray = clazz.getInterfaces();
+        if (classArray != null) {
+            for (int j = 0; j < classArray.length; ++j) {
+                field = _62.d(classArray[j], string, clazz2);
+                if (field == null) continue;
+                return field;
+            }
+        }
+        return null;
+    }
+
+    private static CallSite a(MethodHandles.Lookup lookup, String string, MethodType methodType) {
+        MutableCallSite mutableCallSite = new MutableCallSite(methodType);
+        try {
+            mutableCallSite.setTarget(MethodHandles.explicitCastArguments(MethodHandles.insertArguments(cfr_ldc_0().asCollector(Object[].class, methodType.parameterCount()), 0, lookup, mutableCallSite, string, methodType), methodType));
+        }
+        catch (Exception exception) {
+            throw new RuntimeException("dev/krypton/62" + " : " + string + " : " + methodType.toString(), exception);
+        }
+        return mutableCallSite;
+    }
+
+    private static MatchException a(MatchException matchException) {
+        return matchException;
+    }
+
+    private static Field g(long l2, long l3) {
+        int n = _62.e(l2, l3);
+        Object object = e[n];
+        if (object instanceof String) {
+            String string = f[n];
+            int n2 = string.indexOf(8);
+            Class clazz = _62.f(Long.parseLong(string.substring(0, n2), 36), 0L);
+            int n3 = string.indexOf(8, ++n2);
+            String string2 = string.substring(n2, n3);
+            Class clazz2 = _62.f(Long.parseLong(string.substring(++n3), 36), 0L);
+            Class clazz3 = clazz;
+            while (true) {
+                Field field;
+                if ((field = _62.c(clazz3, string2, clazz2)) != null) {
+                    _62.e[n] = field;
+                    return field;
+                }
+                Class<?>[] classArray = clazz3.getInterfaces();
+                if (classArray != null) {
+                    for (int j = 0; j < classArray.length; ++j) {
+                        field = _62.d(classArray[j], string2, clazz2);
+                        if (field == null) continue;
+                        _62.e[n] = field;
+                        return field;
+                    }
+                }
+                if (clazz3.getName().equals("java.lang.Object")) break;
+                if ((clazz3 = clazz3.getSuperclass()) != null) continue;
+                clazz3 = _62.f(484032842404916L, 0L);
+            }
+            StringBuffer stringBuffer = new StringBuffer();
+            stringBuffer.append("NoSuchFieldException in ").append(clazz.getName()).append(' ').append(clazz2.getName()).append(' ').append(string2);
+            throw new RuntimeException(stringBuffer.toString());
+        }
+        return (Field)object;
+    }
+
+    static class_310 net_minecraft_class_310_3(Object[] objectArray) {
+        long l2 = (Long)objectArray[0];
+        _62 var1_2 = (_62)objectArray[1];
+        l2 = b ^ l2;
+        return _62.a("\u00e6", (Object)var1_2, -3689736366589968983L, (long)l2);
+    }
+
+    @_3i_0
+    public void cfr_renamed_9(_6f_0 f_0) {
+        block5: {
+            class_2596 class_25962;
+            long l2;
+            block4: {
+                l2 = b ^ 0x5B436E0F2834L;
+                _4w[] wArray = _3s.cfr_renamed_5();
+                class_2596 class_25963 = f_0.cfr_renamed_8;
+                try {
+                    try {
+                        class_25962 = class_25963;
+                        if (wArray != null) break block4;
+                        if (!(class_25962 instanceof class_2824)) break block5;
+                    }
+                    catch (MatchException matchException) {
+                        throw _62.a(matchException);
+                    }
+                    class_25962 = class_25963;
+                }
+                catch (MatchException matchException) {
+                    throw _62.a(matchException);
+                }
+            }
+            class_2824 class_28242 = (class_2824)class_25962;
+            _62.a("\u00da", (Object)class_28242, (Object)new _5(this), -535599996499051765L, (long)l2);
+        }
+    }
+
+    static class_310 net_minecraft_class_310_7(Object[] objectArray) {
+        long l2 = (Long)objectArray[0];
+        _62 var3_2 = (_62)objectArray[1];
+        l2 = b ^ l2;
+        return _62.a("\u00e6", (Object)var3_2, 1796435886446913932L, (long)l2);
+    }
+
+    /*
+     * Works around MethodHandle LDC.
+     */
+    static MethodHandle cfr_ldc_0() {
+        try {
+            return MethodHandles.lookup().findStatic(_62.class, "b", MethodType.fromMethodDescriptorString("(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/invoke/MutableCallSite;Ljava/lang/String;Ljava/lang/invoke/MethodType;[Ljava/lang/Object;)Ljava/lang/Object;", null));
+        }
+        catch (NoSuchMethodException | IllegalAccessException except) {
+            throw new IllegalArgumentException(except);
+        }
+    }
+}
+

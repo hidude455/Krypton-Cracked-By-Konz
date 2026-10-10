@@ -1,0 +1,60 @@
+# dev.krypton.5t — observed code bindings
+
+| Cache array | Index | Kind | Original symbol | Named symbol |
+|---|---:|---|---|---|
+| `r` | 1 | class | `int` | `int` |
+| `r` | 2 | class | `dev.krypton.5t` | `dev.krypton.5t` |
+| `r` | 3 | class | `dev.krypton.9H` | `dev.krypton.9H` |
+| `r` | 5 | class | `void` | `void` |
+| `r` | 6 | class | `dev.krypton.9E` | `dev.krypton.9E` |
+| `r` | 8 | class | `boolean` | `boolean` |
+| `r` | 12 | class | `dev.krypton.9f` | `dev.krypton.9f` |
+| `r` | 16 | class | `java.lang.String` | `java.lang.String` |
+| `r` | 17 | class | `java.lang.CharSequence` | `java.lang.CharSequence` |
+| `r` | 18 | class | `dev.krypton.4r` | `dev.krypton.4r` |
+| `r` | 19 | class | `java.lang.System` | `java.lang.System` |
+| `r` | 20 | class | `dev.krypton.6x` | `dev.krypton.6x` |
+| `r` | 22 | class | `long` | `long` |
+| `r` | 23 | class | `dev.krypton.92` | `dev.krypton.92` |
+| `r` | 24 | class | `java.net.http.HttpClient` | `java.net.http.HttpClient` |
+| `r` | 25 | class | `java.net.http.HttpClient$Builder` | `java.net.http.HttpClient$Builder` |
+| `r` | 26 | class | `dev.krypton.4z` | `dev.krypton.4z` |
+| `r` | 28 | class | `net.minecraft.class_2960` | `net.minecraft.util.Identifier` |
+| `r` | 29 | class | `java.time.Duration` | `java.time.Duration` |
+| `r` | 30 | class | `dev.krypton.9r` | `dev.krypton.9r` |
+| `r` | 31 | class | `dev.krypton.94` | `dev.krypton.94` |
+| `r` | 36 | class | `float` | `float` |
+| `r` | 59 | class | `net.minecraft.class_1802` | `net.minecraft.item.Items` |
+| `r` | 60 | class | `net.minecraft.class_1792` | `net.minecraft.item.Item` |
+| `r` | 69 | class | `double` | `double` |
+| `r` | 129 | class | `[Ljava.lang.Object;` | `[Ljava.lang.Object;` |
+| `r` | 139 | field | `dev.krypton.5t.6G:boolean` | `dev.krypton.5t.6G:boolean` |
+| `r` | 142 | method | `java.lang.System.getProperty(java.lang.String,java.lang.String,):java.lang.String` | `java.lang.System.getProperty(java.lang.String, java.lang.String):java.lang.String` |
+| `r` | 152 | method | `java.net.http.HttpClient.newBuilder():java.net.http.HttpClient$Builder` | `java.net.http.HttpClient.newBuilder():java.net.http.HttpClient$Builder` |
+| `r` | 155 | method | `dev.krypton.4z.5([Ljava.lang.Object;,):void` | `dev.krypton.4z.5([Ljava.lang.Object;):void` |
+| `r` | 158 | field | `dev.krypton.5t.6T:dev.krypton.9r` | `dev.krypton.5t.6T:dev.krypton.9r` |
+| `r` | 160 | method | `java.lang.String.toLowerCase():java.lang.String` | `java.lang.String.toLowerCase():java.lang.String` |
+| `r` | 164 | method | `java.time.Duration.ofSeconds(long,):java.time.Duration` | `java.time.Duration.ofSeconds(long):java.time.Duration` |
+| `r` | 170 | field | `dev.krypton.5t.9:int` | `dev.krypton.5t.9:int` |
+| `r` | 177 | field | `dev.krypton.5t.6S:dev.krypton.92` | `dev.krypton.5t.6S:dev.krypton.92` |
+| `r` | 187 | field | `dev.krypton.5t.64:java.lang.String` | `dev.krypton.5t.64:java.lang.String` |
+| `r` | 188 | field | `dev.krypton.5t.6B:dev.krypton.94` | `dev.krypton.5t.6B:dev.krypton.94` |
+| `r` | 189 | field | `net.minecraft.class_1802.field_23984:net.minecraft.class_1792` | `net.minecraft.item.Items.MUSIC_DISC_PIGSTEP:net.minecraft.item.Item` |
+| `r` | 194 | field | `dev.krypton.5t.8:int` | `dev.krypton.5t.8:int` |
+| `r` | 195 | method | `dev.krypton.6x.1([Ljava.lang.Object;,):void` | `dev.krypton.6x.1([Ljava.lang.Object;):void` |
+| `r` | 210 | field | `dev.krypton.4r.RENDER:dev.krypton.4r` | `dev.krypton.4r.RENDER:dev.krypton.4r` |
+| `r` | 219 | field | `dev.krypton.5t.0:long` | `dev.krypton.5t.0:long` |
+| `r` | 222 | method | `java.net.http.HttpClient$Builder.build():java.net.http.HttpClient` | `java.net.http.HttpClient$Builder.build():java.net.http.HttpClient` |
+| `r` | 237 | field | `dev.krypton.5t.6l:long` | `dev.krypton.5t.6l:long` |
+| `r` | 249 | field | `dev.krypton.5t.66:java.lang.String` | `dev.krypton.5t.66:java.lang.String` |
+| `r` | 250 | field | `dev.krypton.5t.6Y:net.minecraft.class_2960` | `dev.krypton.5t.6Y:net.minecraft.util.Identifier` |
+| `r` | 257 | field | `dev.krypton.5t.6w:boolean` | `dev.krypton.5t.6w:boolean` |
+| `r` | 267 | field | `dev.krypton.5t.6F:dev.krypton.9E` | `dev.krypton.5t.6F:dev.krypton.9E` |
+| `r` | 275 | field | `dev.krypton.5t.4:long` | `dev.krypton.5t.4:long` |
+| `r` | 280 | field | `dev.krypton.5t.63:dev.krypton.9H` | `dev.krypton.5t.63:dev.krypton.9H` |
+| `r` | 289 | field | `dev.krypton.9f.Spotify:dev.krypton.9f` | `dev.krypton.9f.Spotify:dev.krypton.9f` |
+| `r` | 294 | field | `dev.krypton.5t.6A:java.lang.String` | `dev.krypton.5t.6A:java.lang.String` |
+| `r` | 300 | method | `java.net.http.HttpClient$Builder.connectTimeout(java.time.Duration,):java.net.http.HttpClient$Builder` | `java.net.http.HttpClient$Builder.connectTimeout(java.time.Duration):java.net.http.HttpClient$Builder` |
+| `r` | 310 | field | `dev.krypton.5t.69:int` | `dev.krypton.5t.69:int` |
+| `r` | 315 | method | `java.lang.String.contains(java.lang.CharSequence,):boolean` | `java.lang.String.contains(java.lang.CharSequence):boolean` |
+| `r` | 326 | field | `dev.krypton.5t.6q:long` | `dev.krypton.5t.6q:long` |
